@@ -162,10 +162,9 @@ See:
 
 ---
 
-## License
-Add a license file if you plan to publish publicly (for example, MIT).
+
 
 ---
 
-## Author Notes
+## My Notes
 This repository contains your World Cup squads analytics workflow prepared for GitHub publishing, with separated scripts, organized outputs, and source data export.
