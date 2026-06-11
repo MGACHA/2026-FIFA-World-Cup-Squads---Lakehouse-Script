@@ -9,7 +9,7 @@ Grouped bar chart with value labels and legend.
 ## Findings
 The grouped view makes cross-group comparison easier. In this sample, some Group B and Group C teams appear older than Group A teams, while the overall spread remains moderate.
 
-## Image placeholder
+## Image 
 ![Average Age by Country and Group](images/04-average-age-by-country-grouped-a.png)
 
 ## Script
