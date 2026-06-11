@@ -9,7 +9,7 @@ Bar chart with exact value labels above each bar.
 ## Findings
 Group-level age differences exist, but they are relatively small. This view is useful for comparing overall age profiles without country-level detail.
 
-## Image placeholder
+## Image
 ![Average Age by Group](images/06-average-age-by-group-a.png)
 
 ## Script
