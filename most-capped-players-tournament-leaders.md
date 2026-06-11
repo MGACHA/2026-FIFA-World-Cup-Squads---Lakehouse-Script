@@ -9,7 +9,7 @@ Horizontal bar chart of the top 10 most capped players.
 ## Findings
 This chart highlights the most experienced internationals and makes label reading easier with a horizontal layout.
 
-## Image placeholder
+## Image
 ![Most Capped Tournament Leaders](images/07-most-capped-players-a.png)
 
 ## Script
