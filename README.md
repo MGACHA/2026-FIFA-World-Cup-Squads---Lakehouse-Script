@@ -109,6 +109,7 @@ Result:
 
 ## Data Source
 - Wikipedia: 2026 FIFA World Cup squads page
+- Source snapshot date: 2026-06-08
 
 Notes:
 - This project is intended for educational/analysis use.
