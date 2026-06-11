@@ -1,0 +1,1247 @@
+group,country,no,pos,player,date_of_birth_age,caps,goals,club,source_table_index
+Group C,Scotland,26,DF,Scott McKenna,"November 12, 1996 (aged 29)",50,1,Dinamo Zagreb,11
+Group D,Australia,1,GK,Mathew Ryan (captain),"April 8, 1992 (aged 34)",104,0,Levante,12
+Group D,Australia,2,DF,Miloš Degenek,"April 28, 1994 (aged 32)",57,1,APOEL,12
+Group D,Australia,3,DF,Alessandro Circati,"October 10, 2003 (aged 22)",13,1,Parma,12
+Group D,Australia,4,DF,Jacob Italiano,"July 30, 2001 (aged 24)",5,0,Grazer AK,12
+Group D,Australia,5,DF,Jordan Bos,"October 29, 2002 (aged 23)",27,4,Feyenoord,12
+Group D,Australia,6,DF,Jason Geria,"May 10, 1993 (aged 33)",14,0,Albirex Niigata,12
+Group D,Australia,7,FW,Mathew Leckie,"February 4, 1991 (aged 35)",80,14,Melbourne City,12
+Group D,Australia,8,MF,Connor Metcalfe,"November 5, 1999 (aged 26)",36,1,FC St. Pauli,12
+Group D,Australia,9,FW,Mohamed Touré,"March 26, 2004 (aged 22)",10,2,Norwich City,12
+Group D,Australia,10,FW,Ajdin Hrustic,"July 5, 1996 (aged 29)",37,4,Heracles Almelo,12
+Group D,Australia,11,FW,Awer Mabil,"September 15, 1995 (aged 30)",38,10,Castellón,12
+Group D,Australia,12,GK,Paul Izzo,"January 6, 1995 (aged 31)",4,0,Randers,12
+Group D,Australia,13,MF,Aiden O'Neill,"July 4, 1998 (aged 27)",31,0,New York City FC,12
+Group D,Australia,14,MF,Cammy Devlin,"June 7, 1998 (aged 28)",5,0,Heart of Midlothian,12
+Group D,Australia,15,DF,Kai Trewin,"May 18, 2001 (aged 25)",6,0,New York City FC,12
+Group D,Australia,16,DF,Aziz Behich,"December 16, 1990 (aged 35)",84,3,Melbourne City,12
+Group D,Australia,17,FW,Nestory Irankunda,"February 9, 2006 (aged 20)",15,5,Watford,12
+Group D,Australia,18,GK,Patrick Beach,"August 6, 2003 (aged 22)",2,0,Melbourne City,12
+Group D,Australia,19,DF,Harry Souttar,"October 22, 1998 (aged 27)",38,11,Leicester City,12
+Group D,Australia,20,FW,Cristian Volpato,"November 15, 2003 (aged 22)",1,0,Sassuolo,12
+Group D,Australia,21,DF,Cameron Burgess,"October 21, 1995 (aged 30)",27,0,Swansea City,12
+Group D,Australia,22,MF,Jackson Irvine,"March 7, 1993 (aged 33)",82,14,FC St. Pauli,12
+Group D,Australia,23,FW,Nishan Velupillay,"May 7, 2001 (aged 25)",7,3,Melbourne Victory,12
+Group D,Australia,24,MF,Paul Okon-Engstler,"January 24, 2005 (aged 21)",6,0,Sydney FC,12
+Group D,Australia,25,DF,Lucas Herrington,"September 5, 2007 (aged 18)",4,0,Colorado Rapids,12
+Group D,Australia,26,FW,Tete Yengi,"November 28, 2000 (aged 25)",1,1,Machida Zelvia,12
+Group D,Paraguay,1,GK,Gatito Fernández,"March 29, 1988 (aged 38)",31,0,Cerro Porteño,13
+Group D,Paraguay,2,DF,Gustavo Velázquez,"April 17, 1991 (aged 35)",13,1,Cerro Porteño,13
+Group D,Paraguay,3,DF,Omar Alderete,"December 26, 1996 (aged 29)",36,3,Sunderland,13
+Group D,Paraguay,4,DF,Juan José Cáceres,"June 1, 2000 (aged 26)",17,0,Dynamo Moscow,13
+Group D,Paraguay,5,DF,Fabián Balbuena,"August 23, 1991 (aged 34)",48,2,Grêmio,13
+Group D,Paraguay,6,DF,Júnior Alonso,"February 9, 1993 (aged 33)",71,3,Atlético Mineiro,13
+Group D,Paraguay,7,MF,Ramón Sosa,"August 31, 1999 (aged 26)",29,1,Palmeiras,13
+Group D,Paraguay,8,MF,Diego Gómez,"March 27, 2003 (aged 23)",24,3,Brighton & Hove Albion,13
+Group D,Paraguay,9,FW,Antonio Sanabria,"March 4, 1996 (aged 30)",48,7,Cremonese,13
+Group D,Paraguay,10,MF,Miguel Almirón,"February 10, 1994 (aged 32)",76,10,Atlanta United FC,13
+Group D,Paraguay,11,MF,Maurício,"June 22, 2001 (aged 24)",3,0,Palmeiras,13
+Group D,Paraguay,12,GK,Orlando Gill,"June 11, 2000 (aged 26)",6,0,San Lorenzo,13
+Group D,Paraguay,13,DF,José Canale,"July 20, 1996 (aged 29)",2,0,Lanús,13
+Group D,Paraguay,14,MF,Andrés Cubas,"May 11, 1996 (aged 30)",33,0,Vancouver Whitecaps FC,13
+Group D,Paraguay,15,DF,Gustavo Gómez (captain),"May 6, 1993 (aged 33)",89,4,Palmeiras,13
+Group D,Paraguay,16,MF,Damián Bobadilla,"July 11, 2001 (aged 24)",19,1,São Paulo,13
+Group D,Paraguay,17,FW,Kaku,"January 11, 1995 (aged 31)",33,6,Al Ain,13
+Group D,Paraguay,18,FW,Álex Arce,"June 16, 1995 (aged 30)",15,1,Independiente Rivadavia,13
+Group D,Paraguay,19,FW,Julio Enciso,"January 23, 2004 (aged 22)",32,4,Strasbourg,13
+Group D,Paraguay,20,MF,Braian Ojeda,"June 27, 2000 (aged 25)",17,0,Orlando City SC,13
+Group D,Paraguay,21,FW,Gabriel Ávalos,"October 12, 1990 (aged 35)",23,2,Independiente,13
+Group D,Paraguay,22,GK,Gastón Olveira,"April 21, 1993 (aged 33)",1,0,Olimpia,13
+Group D,Paraguay,23,MF,Matías Galarza,"February 11, 2002 (aged 24)",15,3,Atlanta United FC,13
+Group D,Paraguay,24,MF,Gustavo Caballero,"September 21, 2001 (aged 24)",2,1,Portsmouth,13
+Group D,Paraguay,25,FW,Isidro Pitta,"August 14, 1999 (aged 26)",5,0,Red Bull Bragantino,13
+Group D,Paraguay,26,DF,Alexandro Maidana,"July 26, 2005 (aged 20)",2,1,Talleres,13
+Group D,Turkey,1,GK,Mert Günok,"March 1, 1989 (aged 37)",37,0,Fenerbahçe,14
+Group D,Turkey,2,DF,Zeki Çelik,"February 17, 1997 (aged 29)",61,3,Roma,14
+Group D,Turkey,3,DF,Merih Demiral,"March 5, 1998 (aged 28)",62,6,Al-Ahli,14
+Group D,Turkey,4,DF,Çağlar Söyüncü,"May 23, 1996 (aged 30)",60,2,Fenerbahçe,14
+Group D,Turkey,5,MF,Salih Özcan,"January 11, 1998 (aged 28)",30,1,Borussia Dortmund,14
+Group D,Turkey,6,MF,Orkun Kökçü,"December 29, 2000 (aged 25)",50,4,Beşiktaş,14
+Group D,Turkey,7,FW,Kerem Aktürkoğlu,"October 21, 1998 (aged 27)",52,15,Fenerbahçe,14
+Group D,Turkey,8,FW,Arda Güler,"February 25, 2005 (aged 21)",29,6,Real Madrid,14
+Group D,Turkey,9,FW,Deniz Gül,"July 2, 2004 (aged 21)",8,2,Porto,14
+Group D,Turkey,10,MF,Hakan Çalhanoğlu (captain),"February 8, 1994 (aged 32)",105,22,Inter Milan,14
+Group D,Turkey,11,FW,Kenan Yıldız,"May 4, 2005 (aged 21)",28,5,Juventus,14
+Group D,Turkey,12,GK,Altay Bayındır,"April 14, 1998 (aged 28)",12,0,Manchester United,14
+Group D,Turkey,13,DF,Eren Elmalı,"July 7, 2000 (aged 25)",23,0,Galatasaray,14
+Group D,Turkey,14,DF,Abdülkerim Bardakcı,"September 7, 1994 (aged 31)",27,2,Galatasaray,14
+Group D,Turkey,15,DF,Ozan Kabak,"March 25, 2000 (aged 26)",30,2,TSG Hoffenheim,14
+Group D,Turkey,16,MF,İsmail Yüksek,"January 26, 1999 (aged 27)",32,1,Fenerbahçe,14
+Group D,Turkey,17,FW,İrfan Can Kahveci,"July 15, 1995 (aged 30)",47,6,Kasımpaşa,14
+Group D,Turkey,18,DF,Mert Müldür,"April 3, 1999 (aged 27)",45,3,Fenerbahçe,14
+Group D,Turkey,19,FW,Yunus Akgün,"July 7, 2000 (aged 25)",19,4,Galatasaray,14
+Group D,Turkey,20,DF,Ferdi Kadıoğlu,"October 7, 1999 (aged 26)",30,2,Brighton & Hove Albion,14
+Group D,Turkey,21,FW,Barış Alper Yılmaz,"May 23, 2000 (aged 26)",35,4,Galatasaray,14
+Group D,Turkey,22,MF,Kaan Ayhan,"November 10, 1994 (aged 31)",73,5,Galatasaray,14
+Group D,Turkey,23,GK,Uğurcan Çakır,"April 5, 1996 (aged 30)",39,0,Galatasaray,14
+Group D,Turkey,24,FW,Oğuz Aydın,"October 27, 2000 (aged 25)",11,0,Fenerbahçe,14
+Group D,Turkey,25,DF,Samet Akaydin,"March 13, 1994 (aged 32)",19,1,Çaykur Rizespor,14
+Group D,Turkey,26,FW,Can Uzun,"November 11, 2005 (aged 20)",6,1,Eintracht Frankfurt,14
+Group D,United States,1,GK,Matt Turner,"June 24, 1994 (aged 31)",54,0,New England Revolution,15
+Group D,United States,2,DF,Sergiño Dest,"November 3, 2000 (aged 25)",39,3,PSV Eindhoven,15
+Group D,United States,3,DF,Chris Richards,"March 28, 2000 (aged 26)",36,3,Crystal Palace,15
+Group D,United States,4,MF,Tyler Adams,"February 14, 1999 (aged 27)",54,2,Bournemouth,15
+Group D,United States,5,DF,Antonee Robinson,"August 8, 1997 (aged 28)",54,5,Fulham,15
+Group D,United States,6,DF,Auston Trusty,"August 12, 1998 (aged 27)",8,0,Celtic,15
+Group D,United States,7,MF,Giovanni Reyna,"November 13, 2002 (aged 23)",38,9,Borussia Mönchengladbach,15
+Group D,United States,8,MF,Weston McKennie,"August 28, 1998 (aged 27)",66,12,Juventus,15
+Group D,United States,9,FW,Ricardo Pepi,"January 9, 2003 (aged 23)",37,13,PSV Eindhoven,15
+Group D,United States,10,FW,Christian Pulisic,"September 18, 1998 (aged 27)",86,33,Milan,15
+Group D,United States,11,FW,Brenden Aaronson,"October 22, 2000 (aged 25)",58,9,Leeds United,15
+Group D,United States,12,DF,Miles Robinson,"March 14, 1997 (aged 29)",40,3,FC Cincinnati,15
+Group D,United States,13,DF,Tim Ream (captain),"October 5, 1987 (aged 38)",82,1,Charlotte FC,15
+Group D,United States,14,MF,Sebastian Berhalter,"May 10, 2001 (aged 25)",13,1,Vancouver Whitecaps FC,15
+Group D,United States,15,MF,Cristian Roldan,"June 3, 1995 (aged 31)",47,0,Seattle Sounders FC,15
+Group D,United States,16,DF,Alex Freeman,"August 9, 2004 (aged 21)",17,2,Villarreal,15
+Group D,United States,17,MF,Malik Tillman,"May 28, 2002 (aged 24)",30,3,Bayer Leverkusen,15
+Group D,United States,18,DF,Max Arfsten,"April 19, 2001 (aged 25)",20,1,Columbus Crew,15
+Group D,United States,19,FW,Haji Wright,"March 27, 1998 (aged 28)",20,7,Coventry City,15
+Group D,United States,20,FW,Folarin Balogun,"July 3, 2001 (aged 24)",27,9,Monaco,15
+Group D,United States,21,FW,Timothy Weah,"February 22, 2000 (aged 26)",51,7,Marseille,15
+Group D,United States,22,DF,Mark McKenzie,"February 25, 1999 (aged 27)",29,0,Toulouse,15
+Group D,United States,23,DF,Joe Scally,"December 31, 2002 (aged 23)",26,0,Borussia Mönchengladbach,15
+Group D,United States,24,GK,Matt Freese,"September 2, 1998 (aged 27)",15,0,New York City FC,15
+Group D,United States,25,GK,Chris Brady,"March 3, 2004 (aged 22)",1,0,Chicago Fire FC,15
+Group D,United States,26,FW,Alejandro Zendejas,"February 7, 1998 (aged 28)",14,2,América,15
+Group E,Curaçao,1,GK,Eloy Room,"February 6, 1989 (aged 37)",71,0,Miami FC,16
+Group E,Curaçao,2,DF,Shurandy Sambo,"August 19, 2001 (aged 24)",8,0,Sparta Rotterdam,16
+Group E,Curaçao,3,DF,Juriën Gaari,"December 23, 1993 (aged 32)",60,1,Abha,16
+Group E,Curaçao,4,DF,Roshon van Eijma,"June 9, 1998 (aged 28)",28,1,RKC Waalwijk,16
+Group E,Curaçao,5,DF,Sherel Floranus,"August 23, 1998 (aged 27)",28,0,PEC Zwolle,16
+Group E,Curaçao,6,MF,Godfried Roemeratoe,"August 19, 1999 (aged 26)",28,1,RKC Waalwijk,16
+Group E,Curaçao,7,MF,Juninho Bacuna,"August 7, 1997 (aged 28)",49,15,Volendam,16
+Group E,Curaçao,8,MF,Livano Comenencia,"February 3, 2004 (aged 22)",20,2,Zürich,16
+Group E,Curaçao,9,FW,Jürgen Locadia,"November 7, 1993 (aged 32)",13,1,Miami FC,16
+Group E,Curaçao,10,MF,Leandro Bacuna (captain),"August 21, 1991 (aged 34)",72,16,Iğdır,16
+Group E,Curaçao,11,FW,Jeremy Antonisse,"March 29, 2002 (aged 24)",27,4,Kifisia,16
+Group E,Curaçao,12,FW,Sontje Hansen,"May 18, 2002 (aged 24)",6,1,Middlesbrough,16
+Group E,Curaçao,13,FW,Tyrese Noslin,"September 11, 2002 (aged 23)",7,1,Telstar,16
+Group E,Curaçao,14,FW,Kenji Gorré,"September 29, 1994 (aged 31)",38,6,Maccabi Haifa,16
+Group E,Curaçao,15,MF,Ar'jany Martha,"September 4, 2003 (aged 22)",9,2,Rotherham United,16
+Group E,Curaçao,16,FW,Jearl Margaritha,"April 10, 2000 (aged 26)",22,5,Beveren,16
+Group E,Curaçao,17,FW,Brandley Kuwas,"September 19, 1992 (aged 33)",35,2,Volendam,16
+Group E,Curaçao,18,DF,Armando Obispo,"March 5, 1999 (aged 27)",6,0,PSV Eindhoven,16
+Group E,Curaçao,19,FW,Gervane Kastaneer,"June 9, 1996 (aged 30)",29,9,Terengganu,16
+Group E,Curaçao,20,DF,Joshua Brenet,"March 20, 1994 (aged 32)",18,2,Kayserispor,16
+Group E,Curaçao,21,MF,Tahith Chong,"December 4, 1999 (aged 26)",6,3,Sheffield United,16
+Group E,Curaçao,22,MF,Kevin Felida,"November 11, 1999 (aged 26)",19,1,Den Bosch,16
+Group E,Curaçao,23,DF,Riechedly Bazoer,"October 12, 1996 (aged 29)",5,0,Konyaspor,16
+Group E,Curaçao,24,DF,Deveron Fonville,"May 16, 2003 (aged 23)",2,0,NEC,16
+Group E,Curaçao,25,GK,Tyrick Bodak,"May 15, 2002 (aged 24)",4,0,Telstar,16
+Group E,Curaçao,26,GK,Trevor Doornbusch,"July 6, 1999 (aged 26)",8,0,VVV-Venlo,16
+Group E,Ecuador,1,GK,Hernán Galíndez,"March 30, 1987 (aged 39)",35,0,Huracán,17
+Group E,Ecuador,2,DF,Félix Torres,"January 11, 1997 (aged 29)",49,5,Internacional,17
+Group E,Ecuador,3,DF,Piero Hincapié,"January 9, 2002 (aged 24)",52,3,Arsenal,17
+Group E,Ecuador,4,DF,Joel Ordóñez,"April 21, 2004 (aged 22)",17,0,Club Brugge,17
+Group E,Ecuador,5,MF,Jordy Alcívar,"August 5, 1999 (aged 26)",11,1,Independiente del Valle,17
+Group E,Ecuador,6,DF,Willian Pacho,"October 16, 2001 (aged 24)",34,2,Paris Saint-Germain,17
+Group E,Ecuador,7,DF,Pervis Estupiñán,"January 21, 1998 (aged 28)",54,5,Milan,17
+Group E,Ecuador,8,MF,Anthony Valencia,"July 21, 2003 (aged 22)",3,1,Antwerp,17
+Group E,Ecuador,9,FW,John Yeboah,"June 23, 2000 (aged 25)",23,3,Venezia,17
+Group E,Ecuador,10,MF,Kendry Páez,"May 4, 2007 (aged 19)",26,2,River Plate,17
+Group E,Ecuador,11,FW,Kevin Rodríguez,"March 4, 2000 (aged 26)",31,2,Union Saint-Gilloise,17
+Group E,Ecuador,12,GK,Moisés Ramírez,"September 9, 2000 (aged 25)",7,0,Kifisia,17
+Group E,Ecuador,13,FW,Enner Valencia (captain),"November 4, 1989 (aged 36)",105,49,Pachuca,17
+Group E,Ecuador,14,MF,Alan Minda,"May 14, 2003 (aged 23)",20,2,Atlético Mineiro,17
+Group E,Ecuador,15,MF,Pedro Vite,"March 9, 2002 (aged 24)",17,1,UNAM,17
+Group E,Ecuador,16,FW,Jordy Caicedo,"November 18, 1997 (aged 28)",20,4,Huracán,17
+Group E,Ecuador,17,DF,Ángelo Preciado,"February 18, 1998 (aged 28)",55,0,Atlético Mineiro,17
+Group E,Ecuador,18,MF,Denil Castillo,"March 24, 2004 (aged 22)",5,0,Midtjylland,17
+Group E,Ecuador,19,FW,Gonzalo Plata,"November 1, 2000 (aged 25)",50,8,Flamengo,17
+Group E,Ecuador,20,FW,Nilson Angulo,"June 19, 2003 (aged 22)",14,2,Sunderland,17
+Group E,Ecuador,21,MF,Alan Franco,"August 21, 1998 (aged 27)",58,1,Atlético Mineiro,17
+Group E,Ecuador,22,GK,Gonzalo Valle,"February 28, 1996 (aged 30)",4,0,LDU Quito,17
+Group E,Ecuador,23,MF,Moisés Caicedo,"November 2, 2001 (aged 24)",61,3,Chelsea,17
+Group E,Ecuador,24,FW,Jeremy Arévalo,"March 19, 2005 (aged 21)",4,0,VfB Stuttgart,17
+Group E,Ecuador,25,DF,Jackson Porozo,"August 4, 2000 (aged 25)",10,1,Tijuana,17
+Group K,Portugal,1,GK,Diogo Costa,"September 19, 1999 (aged 26)",42,0,Porto,42
+Group K,Portugal,2,DF,Nélson Semedo,"November 16, 1993 (aged 32)",49,0,Fenerbahçe,42
+Group K,Portugal,3,DF,Rúben Dias,"May 14, 1997 (aged 29)",75,3,Manchester City,42
+Group K,Portugal,4,DF,Tomás Araújo,"May 16, 2002 (aged 24)",4,0,Benfica,42
+Group K,Portugal,5,DF,Diogo Dalot,"March 18, 1999 (aged 27)",34,3,Manchester United,42
+Group K,Portugal,6,MF,Matheus Nunes,"August 27, 1998 (aged 27)",19,2,Manchester City,42
+Group K,Portugal,7,FW,Cristiano Ronaldo (captain),"February 5, 1985 (aged 41)",227,143,Al-Nassr,42
+Group K,Portugal,8,MF,Bruno Fernandes,"September 8, 1994 (aged 31)",88,29,Manchester United,42
+Group K,Portugal,9,FW,Gonçalo Ramos,"June 20, 2001 (aged 24)",24,10,Paris Saint-Germain,42
+Group K,Portugal,10,MF,Bernardo Silva,"August 10, 1994 (aged 31)",108,14,Manchester City,42
+Group K,Portugal,11,FW,João Félix,"November 10, 1999 (aged 26)",53,12,Al-Nassr,42
+Group K,Portugal,12,GK,José Sá,"January 17, 1993 (aged 33)",5,0,Wolverhampton Wanderers,42
+Group K,Portugal,13,DF,Renato Veiga,"July 29, 2003 (aged 22)",12,1,Villarreal,42
+Group K,Portugal,14,DF,Gonçalo Inácio,"August 25, 2001 (aged 24)",21,2,Sporting CP,42
+Group K,Portugal,15,MF,João Neves,"September 27, 2004 (aged 21)",21,3,Paris Saint-Germain,42
+Group K,Portugal,16,FW,Francisco Trincão,"December 29, 1999 (aged 26)",17,3,Sporting CP,42
+Group K,Portugal,17,FW,Rafael Leão,"June 10, 1999 (aged 27)",44,5,Milan,42
+Group K,Portugal,18,FW,Pedro Neto,"March 9, 2000 (aged 26)",24,2,Chelsea,42
+Group K,Portugal,19,FW,Gonçalo Guedes,"November 29, 1996 (aged 29)",34,8,Real Sociedad,42
+Group K,Portugal,20,DF,João Cancelo,"May 27, 1994 (aged 32)",67,12,Barcelona,42
+Group K,Portugal,21,MF,Rúben Neves,"March 13, 1997 (aged 29)",66,1,Al-Hilal,42
+Group K,Portugal,22,GK,Rui Silva,"February 7, 1994 (aged 32)",3,0,Sporting CP,42
+Group K,Portugal,23,MF,Vitinha,"February 13, 2000 (aged 26)",37,0,Paris Saint-Germain,42
+Group K,Portugal,24,DF,Samú Costa,"November 27, 2000 (aged 25)",5,0,Mallorca,42
+Group K,Portugal,25,DF,Nuno Mendes,"June 19, 2002 (aged 23)",43,1,Paris Saint-Germain,42
+Group K,Portugal,26,FW,Francisco Conceição,"December 14, 2002 (aged 23)",16,3,Juventus,42
+Group K,Uzbekistan,1,GK,Utkir Yusupov,"January 4, 1991 (aged 35)",40,0,Navbahor Namangan,43
+Group K,Uzbekistan,2,DF,Abdukodir Khusanov,"February 29, 2004 (aged 22)",27,0,Manchester City,43
+Group K,Uzbekistan,3,DF,Khojiakbar Alijonov,"April 19, 1997 (aged 29)",40,2,Pakhtakor,43
+Group K,Uzbekistan,4,DF,Farrukh Sayfiev,"January 17, 1991 (aged 35)",46,1,Neftchi Fergana,43
+Group K,Uzbekistan,5,DF,Rustam Ashurmatov,"July 7, 1996 (aged 29)",49,1,Esteghlal,43
+Group K,Uzbekistan,6,MF,Akmal Mozgovoy,"April 2, 1999 (aged 27)",25,1,Pakhtakor,43
+Group K,Uzbekistan,7,MF,Otabek Shukurov,"June 22, 1996 (aged 29)",84,9,Baniyas,43
+Group K,Uzbekistan,8,MF,Jamshid Iskanderov,"October 16, 1993 (aged 32)",38,4,Neftchi Fergana,43
+Group K,Uzbekistan,9,MF,Odiljon Hamrobekov,"February 13, 1996 (aged 30)",72,1,Tractor,43
+Group K,Uzbekistan,10,MF,Jaloliddin Masharipov,"September 1, 1993 (aged 32)",74,12,Esteghlal,43
+Group K,Uzbekistan,11,MF,Oston Urunov,"December 19, 2000 (aged 25)",42,10,Persepolis,43
+Group K,Uzbekistan,12,GK,Abduvohid Nematov,"March 20, 2001 (aged 25)",8,0,Nasaf,43
+Group K,Uzbekistan,13,DF,Sherzod Nasrullaev,"July 23, 1998 (aged 27)",31,2,Nasaf,43
+Group K,Uzbekistan,14,FW,Eldor Shomurodov (captain),"June 29, 1995 (aged 30)",92,44,İstanbul Başakşehir,43
+Group K,Uzbekistan,15,DF,Umar Eshmurodov,"November 30, 1992 (aged 33)",29,0,Nasaf,43
+Group K,Uzbekistan,16,GK,Botirali Ergashev,"June 23, 1995 (aged 30)",2,0,Neftchi Fergana,43
+Group K,Uzbekistan,17,MF,Dostonbek Khamdamov,"July 24, 1996 (aged 29)",34,5,Pakhtakor,43
+Group K,Uzbekistan,18,DF,Abdulla Abdullaev,"September 1, 1997 (aged 28)",17,0,Dibba,43
+Group K,Uzbekistan,19,MF,Azizjon Ganiev,"February 22, 1998 (aged 28)",19,0,Al Bataeh,43
+Group K,Uzbekistan,20,FW,Azizbek Amonov,"October 30, 1997 (aged 28)",12,2,Dinamo Samarqand,43
+Group K,Uzbekistan,21,FW,Igor Sergeev,"April 30, 1993 (aged 33)",83,25,Persepolis,43
+Group K,Uzbekistan,22,MF,Abbosbek Fayzullaev,"October 3, 2003 (aged 22)",32,8,İstanbul Başakşehir,43
+Group K,Uzbekistan,23,MF,Sherzod Esanov,"February 1, 2003 (aged 23)",1,0,Bukhara,43
+Group K,Uzbekistan,24,DF,Bekhruz Karimov,"August 7, 2007 (aged 18)",2,0,Surkhon Termiz,43
+Group K,Uzbekistan,25,DF,Avazbek Ulmasaliev,"March 27, 2000 (aged 26)",0,0,AGMK,43
+Group K,Uzbekistan,26,DF,Jakhongir Urozov,"January 18, 2004 (aged 22)",4,0,Dinamo Samarqand,43
+Group L,Croatia,1,GK,Dominik Livaković,"January 9, 1995 (aged 31)",75,0,Dinamo Zagreb,44
+Group L,Croatia,2,DF,Josip Stanišić,"April 2, 2000 (aged 26)",31,0,Bayern Munich,44
+Group L,Croatia,3,DF,Marin Pongračić,"September 11, 1997 (aged 28)",20,0,Fiorentina,44
+Group L,Croatia,4,DF,Joško Gvardiol,"January 23, 2002 (aged 24)",48,4,Manchester City,44
+Group L,Croatia,5,DF,Duje Ćaleta-Car,"September 17, 1996 (aged 29)",38,1,Real Sociedad,44
+Group L,Croatia,6,DF,Josip Šutalo,"February 28, 2000 (aged 26)",33,0,Ajax,44
+Group L,Croatia,7,MF,Nikola Moro,"March 12, 1998 (aged 28)",10,0,Bologna,44
+Group L,Croatia,8,MF,Mateo Kovačić,"May 6, 1994 (aged 32)",113,5,Manchester City,44
+Group L,Croatia,9,FW,Andrej Kramarić,"June 19, 1991 (aged 34)",116,36,TSG Hoffenheim,44
+Group L,Croatia,10,MF,Luka Modrić (captain),"September 9, 1985 (aged 40)",198,29,Milan,44
+Group L,Croatia,11,FW,Ante Budimir,"July 22, 1991 (aged 34)",38,6,Osasuna,44
+Group L,Croatia,12,GK,Ivor Pandur,"March 25, 2000 (aged 26)",0,0,Hull City,44
+Group L,Croatia,13,MF,Nikola Vlašić,"October 4, 1997 (aged 28)",63,10,Torino,44
+Group L,Croatia,14,FW,Ivan Perišić,"February 2, 1989 (aged 37)",154,38,PSV Eindhoven,44
+Group L,Croatia,15,MF,Mario Pašalić,"February 9, 1995 (aged 31)",85,12,Atalanta,44
+Group L,Croatia,16,MF,Martin Baturina,"February 16, 2003 (aged 23)",19,1,Como,44
+Group L,Croatia,17,MF,Petar Sučić,"October 25, 2003 (aged 22)",17,1,Inter Milan,44
+Group L,Croatia,18,DF,Kristijan Jakić,"May 14, 1997 (aged 29)",17,2,FC Augsburg,44
+Group L,Croatia,19,MF,Toni Fruk,"March 9, 2001 (aged 25)",7,1,Rijeka,44
+Group L,Croatia,20,FW,Igor Matanović,"March 31, 2003 (aged 23)",9,2,SC Freiburg,44
+Group L,Croatia,21,MF,Luka Sučić,"September 8, 2002 (aged 23)",21,1,Real Sociedad,44
+Group L,Croatia,22,DF,Luka Vušković,"February 24, 2007 (aged 19)",5,1,Hamburger SV,44
+Group L,Croatia,23,GK,Dominik Kotarski,"February 10, 2000 (aged 26)",4,0,Copenhagen,44
+Group L,Croatia,24,FW,Marco Pašalić,"September 14, 2000 (aged 25)",15,1,Orlando City SC,44
+Group L,Croatia,25,DF,Martin Erlić,"January 24, 1998 (aged 28)",13,1,Midtjylland,44
+Group L,Croatia,26,FW,Petar Musa,"March 4, 1998 (aged 28)",11,1,FC Dallas,44
+Group L,England,1,GK,Jordan Pickford,"March 7, 1994 (aged 32)",83,0,Everton,45
+Group L,England,2,DF,Ezri Konsa,"October 23, 1997 (aged 28)",19,1,Aston Villa,45
+Group L,England,3,DF,Nico O'Reilly,"March 21, 2005 (aged 21)",4,0,Manchester City,45
+Group L,England,4,MF,Declan Rice,"January 14, 1999 (aged 27)",72,6,Arsenal,45
+Group L,England,5,DF,John Stones,"May 28, 1994 (aged 32)",88,3,Manchester City,45
+Group L,England,6,DF,Marc Guéhi,"July 13, 2000 (aged 25)",28,1,Manchester City,45
+Group L,England,7,FW,Bukayo Saka,"September 5, 2001 (aged 24)",48,14,Arsenal,45
+Group L,England,8,MF,Elliot Anderson,"November 6, 2002 (aged 23)",8,0,Nottingham Forest,45
+Group L,England,9,FW,Harry Kane (captain),"July 28, 1993 (aged 32)",113,79,Bayern Munich,45
+Group L,England,10,MF,Jude Bellingham,"June 29, 2003 (aged 22)",47,6,Real Madrid,45
+Group L,England,11,FW,Marcus Rashford,"October 31, 1997 (aged 28)",71,18,Barcelona,45
+Group L,England,12,DF,Tino Livramento,"November 12, 2002 (aged 23)",6,0,Newcastle United,45
+Group L,England,13,GK,Dean Henderson,"March 12, 1997 (aged 29)",4,0,Crystal Palace,45
+Group L,England,14,MF,Jordan Henderson,"June 17, 1990 (aged 35)",90,3,Brentford,45
+Group L,England,15,DF,Dan Burn,"May 9, 1992 (aged 34)",7,0,Newcastle United,45
+Group L,England,16,MF,Kobbie Mainoo,"April 19, 2005 (aged 21)",13,0,Manchester United,45
+Group L,England,17,MF,Morgan Rogers,"July 26, 2002 (aged 23)",14,1,Aston Villa,45
+Group L,England,18,FW,Anthony Gordon,"February 24, 2001 (aged 25)",18,2,Newcastle United,45
+Group L,England,19,FW,Ollie Watkins,"December 30, 1995 (aged 30)",21,6,Aston Villa,45
+Group L,England,20,FW,Noni Madueke,"March 10, 2002 (aged 24)",10,1,Arsenal,45
+Group L,England,21,MF,Eberechi Eze,"June 29, 1998 (aged 27)",16,3,Arsenal,45
+Group L,England,22,FW,Ivan Toney,"March 16, 1996 (aged 30)",8,1,Al-Ahli,45
+Group L,England,23,GK,James Trafford,"October 10, 2002 (aged 23)",2,0,Manchester City,45
+Group L,England,24,DF,Reece James,"December 8, 1999 (aged 26)",23,1,Chelsea,45
+Group L,England,25,DF,Djed Spence,"August 9, 2000 (aged 25)",5,0,Tottenham Hotspur,45
+Group L,England,26,DF,Jarell Quansah,"January 29, 2003 (aged 23)",2,0,Bayer Leverkusen,45
+Group L,Ghana,1,GK,Lawrence Ati-Zigi,"November 29, 1996 (aged 29)",29,0,St. Gallen,46
+Group L,Ghana,2,DF,Alidu Seidu,"June 4, 2000 (aged 26)",24,1,Rennes,46
+Group L,Ghana,3,MF,Caleb Yirenkyi,"January 15, 2006 (aged 20)",11,1,Nordsjælland,46
+Group L,Ghana,4,DF,Jonas Adjetey,"December 13, 2003 (aged 22)",10,0,VfL Wolfsburg,46
+Group L,Ghana,5,MF,Thomas Partey,"June 13, 1993 (aged 32)",57,15,Villarreal,46
+Group L,Ghana,6,DF,Abdul Mumin,"June 6, 1998 (aged 28)",5,0,Rayo Vallecano,46
+Group L,Ghana,7,FW,Abdul Fatawu,"March 8, 2004 (aged 22)",28,3,Leicester City,46
+Group L,Ghana,8,MF,Kwasi Sibo,"June 24, 1998 (aged 27)",8,0,Oviedo,46
+Group L,Ghana,9,FW,Jordan Ayew (captain),"September 11, 1991 (aged 34)",120,34,Leicester City,46
+Group L,Ghana,10,FW,Brandon Thomas-Asante,"December 29, 1998 (aged 27)",8,1,Coventry City,46
+Group L,Ghana,11,MF,Antoine Semenyo,"January 7, 2000 (aged 26)",34,3,Manchester City,46
+Group L,Ghana,12,GK,Joseph Anang,"June 8, 2000 (aged 26)",1,0,St Patrick's Athletic,46
+Group L,Ghana,13,FW,Christopher Bonsu Baah,"December 14, 2004 (aged 21)",9,0,Al-Qadsiah,46
+Group L,Ghana,14,DF,Gideon Mensah,"July 18, 1998 (aged 27)",40,0,Auxerre,46
+Group L,Ghana,15,MF,Elisha Owusu,"November 7, 1997 (aged 28)",20,0,Auxerre,46
+Group L,Ghana,16,GK,Benjamin Asare,"July 13, 1992 (aged 33)",11,0,Hearts of Oak,46
+Group L,Ghana,17,DF,Abdul Rahman Baba,"July 2, 1994 (aged 31)",51,1,PAOK,46
+Group L,Ghana,18,DF,Jerome Opoku,"October 14, 1998 (aged 27)",11,1,İstanbul Başakşehir,46
+Group L,Ghana,19,FW,Iñaki Williams,"June 15, 1994 (aged 31)",26,2,Athletic Bilbao,46
+Group L,Ghana,20,MF,Augustine Boakye,"November 3, 2000 (aged 25)",0,0,Saint-Étienne,46
+Group L,Ghana,21,DF,Kojo Peprah Oppong,"June 4, 2004 (aged 22)",4,0,Nice,46
+Group L,Ghana,22,FW,Kamaldeen Sulemana,"February 15, 2002 (aged 24)",28,1,Atalanta,46
+Group L,Ghana,23,DF,Derrick Luckassen,"July 3, 1995 (aged 30)",1,0,Pafos,46
+Group L,Ghana,24,FW,Ernest Nuamah,"November 1, 2003 (aged 22)",18,4,Lyon,46
+Group L,Ghana,25,FW,Prince Kwabena Adu,"September 23, 2003 (aged 22)",5,0,Viktoria Plzeň,46
+Group L,Ghana,26,DF,Marvin Senaya,"January 28, 2001 (aged 25)",2,0,Auxerre,46
+Group L,Panama,1,GK,Luis Mejía,"March 16, 1991 (aged 35)",56,0,Nacional,47
+Group L,Panama,2,DF,César Blackman,"April 2, 1998 (aged 28)",40,3,Slovan Bratislava,47
+Group L,Panama,3,DF,José Córdoba,"June 3, 2001 (aged 25)",32,1,Norwich City,47
+Group L,Panama,4,DF,Fidel Escobar,"January 9, 1995 (aged 31)",99,4,Saprissa,47
+Group L,Panama,5,DF,Edgardo Fariña,"October 19, 2001 (aged 24)",18,0,Pari Nizhny Novgorod,47
+Group L,Panama,6,MF,Cristian Martínez,"February 6, 1997 (aged 29)",66,2,Ironi Kiryat Shmona,47
+Group L,Panama,7,MF,José Luis Rodríguez,"June 19, 1998 (aged 27)",70,8,Juárez,47
+Group L,Panama,8,MF,Adalberto Carrasquilla,"November 28, 1998 (aged 27)",73,3,UNAM,47
+Group L,Panama,9,FW,Tomás Rodríguez,"March 9, 1999 (aged 27)",13,4,Saprissa,47
+Group L,Panama,10,MF,Ismael Díaz,"May 12, 1997 (aged 29)",57,17,León,47
+Group L,Panama,11,MF,Yoel Bárcenas,"October 23, 1993 (aged 32)",104,10,Mazatlán,47
+Group L,Panama,12,GK,César Samudio,"February 23, 1994 (aged 32)",5,0,Marathón,47
+Group L,Panama,13,DF,Jiovany Ramos,"January 26, 1997 (aged 29)",23,2,Puerto Cabello,47
+Group L,Panama,14,DF,Carlos Harvey,"February 3, 2000 (aged 26)",28,3,Minnesota United FC,47
+Group L,Panama,15,DF,Eric Davis,"March 31, 1991 (aged 35)",107,9,Plaza Amador,47
+Group L,Panama,16,DF,Andrés Andrade,"October 16, 1998 (aged 27)",50,1,LASK,47
+Group L,Panama,17,FW,José Fajardo,"August 18, 1993 (aged 32)",68,17,Universidad Católica,47
+Group L,Panama,18,FW,Cecilio Waterman,"April 13, 1991 (aged 35)",55,15,Universidad de Concepción,47
+Group L,Panama,19,MF,Alberto Quintero,"December 18, 1987 (aged 38)",141,7,Plaza Amador,47
+Group L,Panama,20,MF,Aníbal Godoy (captain),"February 10, 1990 (aged 36)",159,4,San Diego FC,47
+Group L,Panama,21,MF,César Yanis,"January 28, 1996 (aged 30)",56,5,Cobresal,47
+Group L,Panama,22,GK,Orlando Mosquera,"December 25, 1994 (aged 31)",48,0,Al-Fayha,47
+Group L,Panama,23,DF,Michael Amir Murillo,"February 11, 1996 (aged 30)",94,9,Beşiktaş,47
+Group L,Panama,24,FW,Azarias Londoño,"June 21, 2001 (aged 24)",11,0,Universidad Católica,47
+Group L,Panama,25,DF,Roderick Miller,"April 3, 1992 (aged 34)",50,2,Turan Tovuz,47
+Group L,Panama,26,DF,Jorge Gutiérrez,"September 1, 1998 (aged 27)",18,0,Deportivo La Guaira,47
+Group I,Senegal,25,DF,El Hadji Malick Diouf,"December 29, 2004 (aged 21)",19,1,West Ham United,35
+Group I,Senegal,26,MF,Pape Gueye,"January 24, 1999 (aged 27)",41,5,Villarreal,35
+Group J,Algeria,1,GK,Melvin Mastil,"February 19, 2000 (aged 26)",1,0,Stade Nyonnais,36
+Group J,Algeria,2,DF,Aïssa Mandi,"October 22, 1991 (aged 34)",117,7,Lille,36
+Group J,Algeria,3,DF,Achref Abada,"June 15, 1999 (aged 26)",7,1,USM Alger,36
+Group J,Algeria,4,DF,Mohamed Amine Tougai,"January 22, 2000 (aged 26)",29,2,Espérance de Tunis,36
+Group J,Algeria,5,DF,Zineddine Belaïd,"March 20, 1999 (aged 27)",10,1,JS Kabylie,36
+Group J,Algeria,6,MF,Ramiz Zerrouki,"May 26, 1998 (aged 28)",52,3,Twente,36
+Group J,Algeria,7,FW,Riyad Mahrez (captain),"February 21, 1991 (aged 35)",114,38,Al-Ahli,36
+Group J,Algeria,8,MF,Houssem Aouar,"June 30, 1998 (aged 27)",20,6,Al-Ittihad,36
+Group J,Algeria,9,FW,Amine Gouiri,"February 16, 2000 (aged 26)",22,8,Marseille,36
+Group J,Algeria,10,MF,Farès Chaïbi,"November 28, 2002 (aged 23)",29,3,Eintracht Frankfurt,36
+Group J,Algeria,11,FW,Anis Hadj Moussa,"February 11, 2002 (aged 24)",14,1,Feyenoord,36
+Group J,Algeria,12,FW,Nadhir Benbouali,"April 17, 2000 (aged 26)",3,1,Győri ETO,36
+Group J,Algeria,13,DF,Jaouen Hadjam,"March 26, 2003 (aged 23)",17,3,Young Boys,36
+Group J,Algeria,14,MF,Hicham Boudaoui,"September 23, 1999 (aged 26)",32,0,Nice,36
+Group J,Algeria,15,DF,Rayan Aït-Nouri,"June 6, 2001 (aged 25)",28,0,Manchester City,36
+Group J,Algeria,16,GK,Oussama Benbot,"October 11, 1994 (aged 31)",2,0,USM Alger,36
+Group J,Algeria,17,DF,Rafik Belghali,"June 7, 2002 (aged 24)",12,1,Hellas Verona,36
+Group J,Algeria,18,FW,Mohamed Amoura,"May 9, 2000 (aged 26)",45,19,VfL Wolfsburg,36
+Group J,Algeria,19,MF,Nabil Bentaleb,"November 24, 1994 (aged 31)",59,6,Lille,36
+Group J,Algeria,20,FW,Adil Boulbina,"May 2, 2003 (aged 23)",11,6,Al-Duhail,36
+Group J,Algeria,21,DF,Ramy Bensebaini,"April 16, 1995 (aged 31)",81,7,Borussia Dortmund,36
+Group J,Algeria,22,MF,Ibrahim Maza,"November 24, 2005 (aged 20)",16,2,Bayer Leverkusen,36
+Group J,Algeria,23,GK,Luca Zidane,"May 13, 1998 (aged 28)",7,0,Granada,36
+Group J,Algeria,24,MF,Yacine Titraoui,"August 26, 2003 (aged 22)",5,0,Charleroi,36
+Group J,Algeria,25,FW,Farès Ghedjemis,"September 6, 2002 (aged 23)",1,1,Frosinone,36
+Group J,Algeria,26,DF,Samir Chergui,"February 6, 1999 (aged 27)",4,0,Paris FC,36
+Group J,Argentina,1,GK,Juan Musso,"May 6, 1994 (aged 32)",4,0,Atlético Madrid,37
+Group J,Argentina,3,DF,Nicolás Tagliafico,"August 31, 1992 (aged 33)",76,1,Lyon,37
+Group J,Argentina,4,DF,Gonzalo Montiel,"January 1, 1997 (aged 29)",38,2,River Plate,37
+Group J,Argentina,5,MF,Leandro Paredes,"June 29, 1994 (aged 31)",77,5,Boca Juniors,37
+Group J,Argentina,6,DF,Lisandro Martínez,"January 18, 1998 (aged 28)",27,1,Manchester United,37
+Group J,Argentina,7,MF,Rodrigo De Paul,"May 24, 1994 (aged 32)",86,2,Inter Miami CF,37
+Group J,Argentina,8,MF,Valentín Barco,"July 23, 2004 (aged 21)",3,1,Strasbourg,37
+Group J,Argentina,9,FW,Julián Alvarez,"January 31, 2000 (aged 26)",51,14,Atlético Madrid,37
+Group J,Argentina,10,FW,Lionel Messi (captain),"June 24, 1987 (aged 38)",198,116,Inter Miami CF,37
+Group J,Argentina,11,MF,Giovani Lo Celso,"April 9, 1996 (aged 30)",66,4,Real Betis,37
+Group J,Argentina,12,GK,Gerónimo Rulli,"May 20, 1992 (aged 34)",7,0,Marseille,37
+Group J,Argentina,13,DF,Cristian Romero,"April 27, 1998 (aged 28)",50,3,Tottenham Hotspur,37
+Group J,Argentina,14,MF,Exequiel Palacios,"October 5, 1998 (aged 27)",39,0,Bayer Leverkusen,37
+Group J,Argentina,15,MF,Nicolás González,"April 6, 1998 (aged 28)",50,6,Atlético Madrid,37
+Group J,Argentina,16,FW,Thiago Almada,"April 26, 2001 (aged 25)",15,4,Atlético Madrid,37
+Group J,Argentina,17,FW,Giuliano Simeone,"December 18, 2002 (aged 23)",12,2,Atlético Madrid,37
+Group J,Argentina,18,FW,Nico Paz,"September 8, 2004 (aged 21)",8,1,Como,37
+Group J,Argentina,19,DF,Nicolás Otamendi,"February 12, 1988 (aged 38)",131,8,Benfica,37
+Group J,Argentina,20,MF,Alexis Mac Allister,"December 24, 1998 (aged 27)",45,6,Liverpool,37
+Group J,Argentina,21,FW,José Manuel López,"December 6, 2000 (aged 25)",4,0,Palmeiras,37
+Group J,Argentina,22,FW,Lautaro Martínez,"August 22, 1997 (aged 28)",76,37,Inter Milan,37
+Group J,Argentina,23,GK,Emiliano Martínez,"September 2, 1992 (aged 33)",59,0,Aston Villa,37
+Group J,Argentina,24,MF,Enzo Fernández,"January 17, 2001 (aged 25)",41,6,Chelsea,37
+Group J,Argentina,25,DF,Facundo Medina,"May 28, 1999 (aged 27)",8,0,Marseille,37
+Group J,Argentina,26,DF,Nahuel Molina,"April 6, 1998 (aged 28)",58,1,Atlético Madrid,37
+Group J,Austria,1,GK,Alexander Schlager,"February 1, 1996 (aged 30)",26,0,Red Bull Salzburg,38
+Group J,Austria,2,DF,David Affengruber,"March 19, 2001 (aged 25)",1,0,Elche,38
+Group J,Austria,3,DF,Kevin Danso,"September 19, 1998 (aged 27)",32,0,Tottenham Hotspur,38
+Group J,Austria,4,MF,Xaver Schlager,"September 28, 1997 (aged 28)",51,4,RB Leipzig,38
+Group J,Austria,5,DF,Stefan Posch,"May 14, 1997 (aged 29)",52,5,Mainz 05,38
+Group J,Austria,6,MF,Nicolas Seiwald,"May 4, 2001 (aged 25)",47,1,RB Leipzig,38
+Group J,Austria,7,FW,Marko Arnautović,"April 19, 1989 (aged 37)",133,47,Red Star Belgrade,38
+Group J,Austria,8,DF,David Alaba (captain),"June 24, 1992 (aged 33)",113,15,Real Madrid,38
+Group J,Austria,9,MF,Marcel Sabitzer,"March 17, 1994 (aged 32)",98,26,Borussia Dortmund,38
+Group J,Austria,10,MF,Florian Grillitsch,"August 7, 1995 (aged 30)",58,1,Braga,38
+Group J,Austria,11,FW,Michael Gregoritsch,"April 18, 1994 (aged 32)",75,24,FC Augsburg,38
+Group J,Austria,12,GK,Florian Wiegele,"March 21, 2001 (aged 25)",1,0,Viktoria Plzeň,38
+Group J,Austria,13,GK,Patrick Pentz,"January 2, 1997 (aged 29)",18,0,Brøndby,38
+Group J,Austria,14,FW,Saša Kalajdžić,"July 7, 1997 (aged 28)",22,4,LASK,38
+Group J,Austria,15,DF,Philipp Lienhart,"July 11, 1996 (aged 29)",41,3,SC Freiburg,38
+Group J,Austria,16,DF,Phillipp Mwene,"January 29, 1994 (aged 32)",30,0,Mainz 05,38
+Group J,Austria,17,MF,Carney Chukwuemeka,"October 20, 2003 (aged 22)",3,1,Borussia Dortmund,38
+Group J,Austria,18,MF,Romano Schmid,"January 27, 2000 (aged 26)",34,3,Werder Bremen,38
+Group J,Austria,20,MF,Konrad Laimer,"May 27, 1997 (aged 29)",57,7,Bayern Munich,38
+Group J,Austria,21,FW,Patrick Wimmer,"May 30, 2001 (aged 25)",30,1,VfL Wolfsburg,38
+Group J,Austria,22,MF,Alexander Prass,"May 26, 2001 (aged 25)",19,0,TSG Hoffenheim,38
+Group J,Austria,23,DF,Marco Friedl,"March 16, 1998 (aged 28)",11,0,Werder Bremen,38
+Group J,Austria,24,MF,Paul Wanner,"December 23, 2005 (aged 20)",3,0,PSV Eindhoven,38
+Group J,Austria,25,DF,Michael Svoboda,"October 15, 1998 (aged 27)",4,0,Venezia,38
+Group J,Austria,26,MF,Alessandro Schöpf,"February 7, 1994 (aged 32)",35,6,Wolfsberger AC,38
+Group J,Jordan,1,GK,Yazeed Abulaila,"January 8, 1993 (aged 33)",76,0,Al-Hussein,39
+Group J,Jordan,2,DF,Mohammad Abu Hashish,"May 9, 1995 (aged 31)",56,1,Al-Karma,39
+Group J,Jordan,3,DF,Abdallah Nasib,"February 25, 1994 (aged 32)",65,3,Al-Zawraa,39
+Group J,Jordan,4,DF,Husam Abu Dahab,"May 13, 2000 (aged 26)",18,0,Al-Faisaly,39
+Group J,Jordan,5,DF,Yazan Al-Arab,"January 31, 1996 (aged 30)",80,3,FC Seoul,39
+Group J,Jordan,6,MF,Amer Jamous,"July 3, 2002 (aged 23)",19,1,Al-Zawraa,39
+Group J,Jordan,7,FW,Mohammad Abu Zrayq,"December 30, 1997 (aged 28)",41,5,Raja Casablanca,39
+Group J,Jordan,8,MF,Noor Al-Rawabdeh,"February 24, 1997 (aged 29)",68,3,Selangor,39
+Group J,Jordan,9,FW,Ali Olwan,"March 26, 2000 (aged 26)",66,29,Al-Sailiya,39
+Group J,Jordan,10,FW,Musa Al-Taamari,"June 10, 1997 (aged 29)",92,24,Rennes,39
+Group J,Jordan,11,FW,Odeh Al-Fakhouri,"November 22, 2005 (aged 20)",10,1,Pyramids,39
+Group J,Jordan,12,GK,Nour Bani Attiah,"January 25, 1993 (aged 33)",5,0,Al-Faisaly,39
+Group J,Jordan,13,FW,Mahmoud Al-Mardi,"October 6, 1993 (aged 32)",89,9,Al-Hussein,39
+Group J,Jordan,14,MF,Rajaei Ayed,"July 25, 1993 (aged 32)",72,0,Al-Hussein,39
+Group J,Jordan,15,MF,Ibrahim Sadeh,"April 27, 2000 (aged 26)",57,3,Al-Karma,39
+Group J,Jordan,16,DF,Mo Abualnadi,"February 8, 2001 (aged 25)",18,0,Selangor,39
+Group J,Jordan,17,DF,Salim Obaid,"January 17, 1992 (aged 34)",11,0,Al-Hussein,39
+Group J,Jordan,18,DF,Mohammad Taha,"July 13, 2005 (aged 20)",2,0,Al-Hussein,39
+Group J,Jordan,19,DF,Saed Al-Rosan,"February 1, 1997 (aged 29)",21,2,Al-Hussein,39
+Group J,Jordan,20,MF,Mohannad Abu Taha,"February 2, 2003 (aged 23)",29,1,Al-Quwa Al-Jawiya,39
+Group J,Jordan,21,MF,Nizar Al-Rashdan,"March 23, 1999 (aged 27)",47,4,Qatar SC,39
+Group J,Jordan,22,GK,Abdallah Al-Fakhouri,"January 22, 2000 (aged 26)",11,0,Al-Wehdat,39
+Group J,Jordan,23,DF,Ihsan Haddad (captain),"February 5, 1994 (aged 32)",92,2,Al-Hussein,39
+Group J,Jordan,24,FW,Ali Azaizeh,"April 13, 2004 (aged 22)",4,0,Al-Shabab,39
+Group J,Jordan,25,MF,Mohammad Al-Dawoud,"April 12, 1992 (aged 34)",13,1,Al-Wehdat,39
+Group J,Jordan,26,DF,Anas Badawi,"September 13, 1997 (aged 28)",1,0,Al-Faisaly,39
+Group K,Colombia,1,GK,David Ospina,"August 31, 1988 (aged 37)",130,0,Atlético Nacional,40
+Group K,Colombia,2,DF,Daniel Muñoz,"May 26, 1996 (aged 30)",46,3,Crystal Palace,40
+Group K,Colombia,3,DF,Jhon Lucumí,"June 26, 1998 (aged 27)",37,1,Bologna,40
+Group K,Colombia,4,DF,Santiago Arias,"January 13, 1992 (aged 34)",68,0,Independiente,40
+Group K,Colombia,5,MF,Kevin Castaño,"September 29, 2000 (aged 25)",25,0,River Plate,40
+Group K,Colombia,6,MF,Richard Ríos,"June 2, 2000 (aged 26)",32,2,Benfica,40
+Group K,Colombia,7,FW,Luis Díaz,"January 13, 1997 (aged 29)",74,22,Bayern Munich,40
+Group K,Colombia,8,MF,Jorge Carrascal,"May 25, 1998 (aged 28)",24,2,Flamengo,40
+Group K,Colombia,9,FW,Jhon Córdoba,"May 11, 1993 (aged 33)",21,6,Krasnodar,40
+Group K,Colombia,10,MF,James Rodríguez (captain),"July 12, 1991 (aged 34)",126,31,Minnesota United FC,40
+Group K,Colombia,11,MF,Jhon Arias,"September 21, 1997 (aged 28)",38,6,Palmeiras,40
+Group K,Colombia,12,GK,Camilo Vargas,"March 9, 1989 (aged 37)",42,0,Atlas,40
+Group K,Colombia,13,DF,Yerry Mina,"September 23, 1994 (aged 31)",54,8,Cagliari,40
+Group K,Colombia,14,DF,Gustavo Puerta,"July 23, 2003 (aged 22)",6,1,Racing Santander,40
+Group K,Colombia,15,MF,Juan Portilla,"September 12, 1998 (aged 27)",10,0,Athletico Paranaense,40
+Group K,Colombia,16,MF,Jefferson Lerma,"October 25, 1994 (aged 31)",65,5,Crystal Palace,40
+Group K,Colombia,17,DF,Johan Mojica,"August 21, 1992 (aged 33)",45,1,Mallorca,40
+Group K,Colombia,18,DF,Willer Ditta,"January 23, 1998 (aged 28)",5,0,Cruz Azul,40
+Group K,Colombia,19,FW,Cucho Hernández,"April 20, 1999 (aged 27)",9,2,Real Betis,40
+Group K,Colombia,20,MF,Juan Fernando Quintero,"January 18, 1993 (aged 33)",49,6,River Plate,40
+Group K,Colombia,21,FW,Jaminton Campaz,"May 24, 2000 (aged 26)",10,1,Rosario Central,40
+Group K,Colombia,22,DF,Deiver Machado,"September 2, 1993 (aged 32)",15,0,Nantes,40
+Group K,Colombia,23,DF,Davinson Sánchez,"June 12, 1996 (aged 29)",79,4,Galatasaray,40
+Group K,Colombia,24,GK,Álvaro Montero,"March 29, 1995 (aged 31)",12,0,Vélez Sarsfield,40
+Group K,Colombia,25,FW,Luis Suárez,"December 2, 1997 (aged 28)",12,5,Sporting CP,40
+Group K,Colombia,26,FW,Andrés Gómez,"September 12, 2002 (aged 23)",8,2,Vasco da Gama,40
+Group K,DR Congo,1,GK,Lionel Mpasi,"August 1, 1994 (aged 31)",28,0,Le Havre,41
+Group K,DR Congo,2,DF,Aaron Wan-Bissaka,"November 26, 1997 (aged 28)",11,0,West Ham United,41
+Group K,DR Congo,3,DF,Steve Kapuadi,"April 30, 1998 (aged 28)",4,0,Widzew Łódź,41
+Group K,DR Congo,4,DF,Axel Tuanzebe,"November 14, 1997 (aged 28)",13,1,Burnley,41
+Group K,DR Congo,5,DF,Dylan Batubinsika,"February 15, 1996 (aged 30)",14,1,AEL,41
+Group K,DR Congo,6,MF,Ngal'ayel Mukau,"November 3, 2004 (aged 21)",13,0,Lille,41
+Group K,DR Congo,7,MF,Nathanaël Mbuku,"March 16, 2002 (aged 24)",18,2,Montpellier,41
+Group K,DR Congo,8,MF,Samuel Moutoussamy,"August 12, 1996 (aged 29)",57,0,Atromitos,41
+Group K,DR Congo,9,FW,Brian Cipenga,"March 11, 1998 (aged 28)",7,0,Castellón,41
+Group K,DR Congo,10,MF,Théo Bongonda,"November 20, 1995 (aged 30)",37,7,Spartak Moscow,41
+Group K,DR Congo,11,FW,Gaël Kakuta,"June 21, 1991 (aged 34)",30,5,AEL,41
+Group K,DR Congo,12,DF,Joris Kayembe,"August 8, 1994 (aged 31)",25,0,Genk,41
+Group K,DR Congo,13,FW,Meschak Elia,"August 6, 1997 (aged 28)",68,12,Alanyaspor,41
+Group K,DR Congo,14,MF,Noah Sadiki,"December 17, 2004 (aged 21)",19,0,Sunderland,41
+Group K,DR Congo,15,MF,Aaron Tshibola,"January 2, 1995 (aged 31)",16,1,Kilmarnock,41
+Group K,DR Congo,16,GK,Timothy Fayulu,"July 24, 1999 (aged 26)",3,0,Noah,41
+Group K,DR Congo,17,FW,Cédric Bakambu,"April 11, 1991 (aged 35)",69,21,Real Betis,41
+Group K,DR Congo,18,MF,Charles Pickel,"May 15, 1997 (aged 29)",34,1,Espanyol,41
+Group K,DR Congo,19,FW,Fiston Mayele,"June 24, 1994 (aged 31)",37,6,Pyramids,41
+Group K,DR Congo,20,FW,Yoane Wissa,"September 3, 1996 (aged 29)",37,9,Newcastle United,41
+Group K,DR Congo,21,GK,Matthieu Epolo,"January 15, 2005 (aged 21)",1,0,Standard Liège,41
+Group K,DR Congo,22,DF,Chancel Mbemba (captain),"August 8, 1994 (aged 31)",108,7,Lille,41
+Group K,DR Congo,23,FW,Simon Banza,"August 13, 1996 (aged 29)",15,2,Al Jazira,41
+Group K,DR Congo,24,DF,Gédéon Kalulu,"August 29, 1997 (aged 28)",28,0,Aris Limassol,41
+Group K,DR Congo,25,MF,Edo Kayembe,"June 3, 1998 (aged 28)",42,2,Watford,41
+Group K,DR Congo,26,DF,Arthur Masuaku,"November 7, 1993 (aged 32)",45,4,Lens,41
+Group A,Czech Republic,1,GK,Matěj Kovář,"May 17, 2000 (aged 26)",20,0,PSV Eindhoven,0
+Group A,Czech Republic,2,DF,David Zima,"November 8, 2000 (aged 25)",25,1,Slavia Prague,0
+Group A,Czech Republic,3,DF,Tomáš Holeš,"March 31, 1993 (aged 33)",41,2,Slavia Prague,0
+Group A,Czech Republic,4,DF,Robin Hranáč,"January 29, 2000 (aged 26)",14,1,TSG Hoffenheim,0
+Group A,Czech Republic,5,DF,Vladimír Coufal,"August 22, 1992 (aged 33)",62,2,TSG Hoffenheim,0
+Group A,Czech Republic,6,DF,Štěpán Chaloupek,"March 8, 2003 (aged 23)",5,0,Slavia Prague,0
+Group A,Czech Republic,7,DF,Ladislav Krejčí (captain),"April 20, 1999 (aged 27)",27,5,Wolverhampton Wanderers,0
+Group A,Czech Republic,8,MF,Vladimír Darida,"August 8, 1990 (aged 35)",79,8,Hradec Králové,0
+Group A,Czech Republic,9,FW,Adam Hložek,"July 25, 2002 (aged 23)",43,5,TSG Hoffenheim,0
+Group A,Czech Republic,10,FW,Patrik Schick,"January 24, 1996 (aged 30)",53,26,Bayer Leverkusen,0
+Group A,Czech Republic,11,FW,Jan Kuchta,"January 8, 1997 (aged 29)",31,3,Sparta Prague,0
+Group A,Czech Republic,12,MF,Lukáš Červ,"April 10, 2001 (aged 25)",17,2,Viktoria Plzeň,0
+Group A,Czech Republic,13,FW,Mojmír Chytil,"April 29, 1999 (aged 27)",22,6,Slavia Prague,0
+Group A,Czech Republic,14,DF,David Jurásek,"August 7, 2000 (aged 25)",18,1,Slavia Prague,0
+Group A,Czech Republic,15,FW,Pavel Šulc,"December 29, 2000 (aged 25)",21,5,Lyon,0
+Group A,Czech Republic,16,GK,Jindřich Staněk,"April 27, 1996 (aged 30)",14,0,Slavia Prague,0
+Group A,Czech Republic,17,MF,Lukáš Provod,"October 23, 1996 (aged 29)",38,3,Slavia Prague,0
+Group A,Czech Republic,18,MF,Michal Sadílek,"May 31, 1999 (aged 27)",35,1,Slavia Prague,0
+Group A,Czech Republic,19,FW,Tomáš Chorý,"January 26, 1995 (aged 31)",22,7,Slavia Prague,0
+Group A,Czech Republic,20,DF,Jaroslav Zelený,"August 20, 1992 (aged 33)",23,0,Sparta Prague,0
+Group A,Czech Republic,21,DF,David Douděra,"May 31, 1998 (aged 28)",17,2,Slavia Prague,0
+Group A,Czech Republic,22,MF,Tomáš Souček,"February 27, 1995 (aged 31)",90,17,West Ham United,0
+Group A,Czech Republic,23,GK,Lukáš Horníček,"July 13, 2002 (aged 23)",1,0,Braga,0
+Group A,Czech Republic,24,MF,Alexandr Sojka,"April 2, 2003 (aged 23)",2,0,Viktoria Plzeň,0
+Group A,Czech Republic,25,MF,Hugo Sochůrek,"June 7, 2008 (aged 18)",1,0,Sparta Prague,0
+Group A,Czech Republic,26,FW,Denis Višinský,"March 21, 2003 (aged 23)",2,1,Viktoria Plzeň,0
+Group A,Mexico,1,GK,Raúl Rangel,"February 25, 2000 (aged 26)",14,0,Guadalajara,1
+Group A,Mexico,2,DF,Jorge Sánchez,"December 10, 1997 (aged 28)",59,3,PAOK,1
+Group A,Mexico,3,DF,César Montes,"February 24, 1997 (aged 29)",67,4,Lokomotiv Moscow,1
+Group A,Mexico,4,DF,Edson Álvarez (captain),"October 24, 1997 (aged 28)",98,7,Fenerbahçe,1
+Group A,Mexico,5,DF,Johan Vásquez,"October 22, 1998 (aged 27)",46,3,Genoa,1
+Group A,Mexico,6,MF,Érik Lira,"May 8, 2000 (aged 26)",25,0,Cruz Azul,1
+Group A,Mexico,7,MF,Luis Romo,"June 5, 1995 (aged 31)",63,4,Guadalajara,1
+Group A,Mexico,8,MF,Álvaro Fidalgo,"April 9, 1997 (aged 29)",4,0,Real Betis,1
+Group A,Mexico,9,FW,Raúl Jiménez,"May 5, 1991 (aged 35)",124,45,Fulham,1
+Group A,Mexico,10,FW,Alexis Vega,"November 25, 1997 (aged 28)",52,7,Toluca,1
+Group A,Mexico,11,FW,Santiago Giménez,"April 18, 2001 (aged 25)",47,6,Milan,1
+Group A,Mexico,12,GK,Carlos Acevedo,"April 19, 1996 (aged 30)",7,0,Santos Laguna,1
+Group A,Mexico,13,GK,Guillermo Ochoa,"July 13, 1985 (aged 40)",152,0,AEL Limassol,1
+Group A,Mexico,14,FW,Armando González,"April 20, 2003 (aged 23)",7,1,Guadalajara,1
+Group A,Mexico,15,DF,Israel Reyes,"May 23, 2000 (aged 26)",34,2,América,1
+Group A,Mexico,16,FW,Julián Quiñones,"March 24, 1997 (aged 29)",22,2,Al-Qadsiah,1
+Group A,Mexico,17,MF,Orbelín Pineda,"March 24, 1996 (aged 30)",92,12,AEK Athens,1
+Group A,Mexico,18,MF,Obed Vargas,"August 5, 2005 (aged 20)",6,0,Atlético Madrid,1
+Group A,Mexico,19,MF,Gilberto Mora,"October 14, 2008 (aged 17)",8,0,Tijuana,1
+Group A,Mexico,20,DF,Mateo Chávez,"May 12, 2004 (aged 22)",10,0,AZ,1
+Group A,Mexico,21,FW,César Huerta,"December 3, 2000 (aged 25)",26,3,Anderlecht,1
+Group A,Mexico,22,FW,Guillermo Martínez,"March 15, 1995 (aged 31)",12,3,Pumas,1
+Group A,Mexico,23,DF,Jesús Gallardo,"August 15, 1994 (aged 31)",121,3,Toluca,1
+Group A,Mexico,24,MF,Luis Chávez,"January 15, 1996 (aged 30)",45,5,Dynamo Moscow,1
+Group A,Mexico,25,FW,Roberto Alvarado,"September 7, 1998 (aged 27)",67,5,Guadalajara,1
+Group A,Mexico,26,MF,Brian Gutiérrez,"June 17, 2003 (aged 22)",7,2,Guadalajara,1
+Group A,South Africa,1,GK,Ronwen Williams (captain),"January 21, 1992 (aged 34)",62,0,Mamelodi Sundowns,2
+Group A,South Africa,2,DF,Thabang Matuludi,"January 14, 1999 (aged 27)",2,0,Polokwane City,2
+Group A,South Africa,3,DF,Khulumani Ndamane,"February 5, 2004 (aged 22)",5,0,Mamelodi Sundowns,2
+Group A,South Africa,4,MF,Teboho Mokoena,"January 24, 1997 (aged 29)",51,9,Mamelodi Sundowns,2
+Group A,South Africa,5,MF,Thalente Mbatha,"March 6, 2000 (aged 26)",14,3,Orlando Pirates,2
+Group A,South Africa,6,DF,Aubrey Modiba,"July 22, 1995 (aged 30)",44,3,Mamelodi Sundowns,2
+Group A,South Africa,7,FW,Oswin Appollis,"August 25, 2001 (aged 24)",25,8,Orlando Pirates,2
+Group A,South Africa,8,FW,Tshepang Moremi,"October 2, 2000 (aged 25)",9,1,Orlando Pirates,2
+Group A,South Africa,9,FW,Lyle Foster,"September 3, 2000 (aged 25)",26,10,Burnley,2
+Group A,South Africa,10,FW,Relebohile Mofokeng,"October 23, 2004 (aged 21)",12,0,Orlando Pirates,2
+Group A,South Africa,11,MF,Themba Zwane,"August 3, 1989 (aged 36)",53,12,Mamelodi Sundowns,2
+Group A,South Africa,12,FW,Thapelo Maseko,"November 11, 2003 (aged 22)",9,1,AEL Limassol,2
+Group A,South Africa,13,MF,Sphephelo Sithole,"March 3, 1999 (aged 27)",27,1,Tondela,2
+Group A,South Africa,14,DF,Mbekezeli Mbokazi,"September 19, 2005 (aged 20)",10,1,Chicago Fire FC,2
+Group A,South Africa,15,FW,Iqraam Rayners,"December 19, 1995 (aged 30)",13,4,Mamelodi Sundowns,2
+Group A,South Africa,16,GK,Sipho Chaine,"December 14, 1996 (aged 29)",3,0,Orlando Pirates,2
+Group A,South Africa,17,FW,Evidence Makgopa,"June 5, 2000 (aged 26)",26,6,Orlando Pirates,2
+Group A,South Africa,18,DF,Samukele Kabini,"March 15, 2004 (aged 22)",5,0,Molde,2
+Group A,South Africa,19,DF,Nkosinathi Sibisi,"September 22, 1995 (aged 30)",19,0,Orlando Pirates,2
+Group A,South Africa,20,DF,Khuliso Mudau,"April 26, 1995 (aged 31)",32,1,Mamelodi Sundowns,2
+Group A,South Africa,21,DF,Ime Okon,"February 20, 2004 (aged 22)",7,1,Hannover 96,2
+Group A,South Africa,22,GK,Ricardo Goss,"April 2, 1994 (aged 32)",4,0,Siwelele,2
+Group A,South Africa,23,MF,Jayden Adams,"May 5, 2001 (aged 25)",4,0,Mamelodi Sundowns,2
+Group A,South Africa,24,DF,Olwethu Makhanya,"April 30, 2004 (aged 22)",0,0,Philadelphia Union,2
+Group A,South Africa,25,FW,Kamogelo Sebelebele,"July 21, 2002 (aged 23)",2,0,Orlando Pirates,2
+Group A,South Africa,26,DF,Bradley Cross,"January 30, 2001 (aged 25)",0,0,Kaizer Chiefs,2
+Group A,South Korea,1,GK,Kim Seung-gyu,"September 30, 1990 (aged 35)",87,0,FC Tokyo,3
+Group A,South Korea,2,DF,Lee Han-beom,"June 17, 2002 (aged 23)",8,0,Midtjylland,3
+Group A,South Korea,3,MF,Lee Gi-hyuk,"July 7, 2000 (aged 25)",3,0,Gangwon FC,3
+Group A,South Korea,4,DF,Kim Min-jae,"November 15, 1996 (aged 29)",79,4,Bayern Munich,3
+Group A,South Korea,5,DF,Kim Tae-hyeon,"September 17, 2000 (aged 25)",7,0,Kashima Antlers,3
+Group A,South Korea,6,MF,Hwang In-beom,"September 20, 1996 (aged 29)",73,6,Feyenoord,3
+Group A,South Korea,7,FW,Son Heung-min (captain),"July 8, 1992 (aged 33)",144,56,Los Angeles FC,3
+Group A,South Korea,8,MF,Paik Seung-ho,"March 17, 1997 (aged 29)",27,3,Birmingham City,3
+Group A,South Korea,9,FW,Cho Gue-sung,"January 25, 1998 (aged 28)",44,12,Midtjylland,3
+Group A,South Korea,10,MF,Lee Jae-sung,"August 10, 1992 (aged 33)",105,15,Mainz 05,3
+Group A,South Korea,11,MF,Hwang Hee-chan,"January 26, 1996 (aged 30)",79,17,Wolverhampton Wanderers,3
+Group A,South Korea,12,GK,Song Bum-keun,"October 15, 1997 (aged 28)",3,0,Jeonbuk Hyundai Motors,3
+Group A,South Korea,13,DF,Lee Tae-seok,"July 28, 2002 (aged 23)",15,1,Austria Wien,3
+Group A,South Korea,14,DF,Cho Wi-je,"August 25, 2001 (aged 24)",1,0,Jeonbuk Hyundai Motors,3
+Group A,South Korea,15,DF,Kim Moon-hwan,"August 1, 1995 (aged 30)",35,0,Daejeon Hana Citizen,3
+Group A,South Korea,16,DF,Park Jin-seob,"October 23, 1995 (aged 30)",14,1,Zhejiang,3
+Group A,South Korea,17,MF,Bae Jun-ho,"August 21, 2003 (aged 22)",13,2,Stoke City,3
+Group A,South Korea,18,FW,Oh Hyeon-gyu,"April 12, 2001 (aged 25)",27,6,Beşiktaş,3
+Group A,South Korea,19,MF,Lee Kang-in,"February 19, 2001 (aged 25)",47,11,Paris Saint-Germain,3
+Group A,South Korea,20,MF,Yang Hyun-jun,"May 25, 2002 (aged 24)",9,0,Celtic,3
+Group A,South Korea,21,GK,Jo Hyeon-woo,"September 25, 1991 (aged 34)",48,0,Ulsan HD,3
+Group A,South Korea,22,DF,Seol Young-woo,"December 5, 1998 (aged 27)",34,0,Red Star Belgrade,3
+Group A,South Korea,23,DF,Jens Castrop,"July 29, 2003 (aged 22)",7,0,Borussia Mönchengladbach,3
+Group A,South Korea,24,MF,Kim Jin-gyu,"February 24, 1997 (aged 29)",22,3,Jeonbuk Hyundai Motors,3
+Group A,South Korea,25,MF,Eom Ji-sung,"May 9, 2002 (aged 24)",9,2,Swansea City,3
+Group A,South Korea,26,MF,Lee Dong-gyeong,"September 20, 1997 (aged 28)",18,4,Ulsan HD,3
+Group B,Bosnia and Herzegovina,1,GK,Nikola Vasilj,"December 2, 1995 (aged 30)",26,0,FC St. Pauli,4
+Group B,Bosnia and Herzegovina,2,DF,Nihad Mujakić,"April 15, 1998 (aged 28)",12,1,Gaziantep,4
+Group B,Bosnia and Herzegovina,3,DF,Dennis Hadžikadunić,"July 9, 1998 (aged 27)",32,0,Sampdoria,4
+Group B,Bosnia and Herzegovina,4,DF,Tarik Muharemović,"February 28, 2003 (aged 23)",14,1,Sassuolo,4
+Group B,Bosnia and Herzegovina,5,DF,Sead Kolašinac,"June 20, 1993 (aged 32)",65,0,Atalanta,4
+Group B,Bosnia and Herzegovina,6,MF,Benjamin Tahirović,"March 3, 2003 (aged 23)",28,2,Brøndby,4
+Group B,Bosnia and Herzegovina,7,DF,Amar Dedić,"August 18, 2002 (aged 23)",28,1,Benfica,4
+Group B,Bosnia and Herzegovina,8,MF,Armin Gigović,"April 6, 2002 (aged 24)",20,1,Young Boys,4
+Group B,Bosnia and Herzegovina,9,FW,Samed Baždar,"January 31, 2004 (aged 22)",13,1,Jagiellonia Białystok,4
+Group B,Bosnia and Herzegovina,10,FW,Ermedin Demirović,"March 25, 1998 (aged 28)",40,4,VfB Stuttgart,4
+Group B,Bosnia and Herzegovina,11,FW,Edin Džeko (captain),"March 17, 1986 (aged 40)",148,73,Schalke 04,4
+Group B,Bosnia and Herzegovina,12,GK,Mladen Jurkas,"October 7, 2007 (aged 18)",0,0,Borac Banja Luka,4
+Group B,Bosnia and Herzegovina,13,MF,Ivan Bašić,"April 30, 2002 (aged 24)",17,0,Astana,4
+Group B,Bosnia and Herzegovina,14,MF,Ivan Šunjić,"October 9, 1996 (aged 29)",11,0,Pafos,4
+Group B,Bosnia and Herzegovina,15,MF,Amar Memić,"January 20, 2001 (aged 25)",13,1,Viktoria Plzeň,4
+Group B,Bosnia and Herzegovina,16,MF,Amir Hadžiahmetović,"March 8, 1997 (aged 29)",36,0,Hull City,4
+Group B,Bosnia and Herzegovina,17,MF,Dženis Burnić,"May 22, 1998 (aged 28)",20,0,Karlsruher SC,4
+Group B,Bosnia and Herzegovina,18,DF,Nikola Katić,"October 10, 1996 (aged 29)",17,2,Schalke 04,4
+Group B,Bosnia and Herzegovina,19,FW,Kerim Alajbegović,"September 21, 2007 (aged 18)",10,1,Red Bull Salzburg,4
+Group B,Bosnia and Herzegovina,20,FW,Esmir Bajraktarević,"March 10, 2005 (aged 21)",16,1,PSV Eindhoven,4
+Group B,Bosnia and Herzegovina,21,DF,Stjepan Radeljić,"September 5, 1997 (aged 28)",5,0,Rijeka,4
+Group B,Bosnia and Herzegovina,22,GK,Martin Zlomislić,"August 16, 1998 (aged 27)",3,0,Rijeka,4
+Group B,Bosnia and Herzegovina,23,FW,Haris Tabaković,"June 20, 1994 (aged 31)",10,4,Borussia Mönchengladbach,4
+Group B,Bosnia and Herzegovina,24,DF,Nidal Čelik,"July 17, 2006 (aged 19)",2,0,Lens,4
+Group B,Bosnia and Herzegovina,25,FW,Jovo Lukić,"November 28, 1998 (aged 27)",3,0,Universitatea Cluj,4
+Group B,Bosnia and Herzegovina,26,MF,Ermin Mahmić,"March 14, 2005 (aged 21)",2,0,Slovan Liberec,4
+Group B,Canada,1,GK,Dayne St. Clair,"May 9, 1997 (aged 29)",20,0,Inter Miami CF,5
+Group B,Canada,2,DF,Alistair Johnston,"October 8, 1998 (aged 27)",58,1,Celtic,5
+Group B,Canada,3,DF,Alfie Jones,"October 7, 1997 (aged 28)",2,0,Middlesbrough,5
+Group B,Canada,4,DF,Luc de Fougerolles,"October 12, 2005 (aged 20)",13,0,Dender,5
+Group B,Canada,5,DF,Joel Waterman,"January 24, 1996 (aged 30)",17,0,Chicago Fire FC,5
+Group B,Canada,6,MF,Mathieu Choinière,"February 7, 1999 (aged 27)",23,0,Los Angeles FC,5
+Group B,Canada,7,MF,Stephen Eustáquio,"December 21, 1996 (aged 29)",56,4,Los Angeles FC,5
+Group B,Canada,8,MF,Ismaël Koné,"June 16, 2002 (aged 23)",40,4,Sassuolo,5
+Group B,Canada,9,FW,Cyle Larin,"April 17, 1995 (aged 31)",90,30,Southampton,5
+Group B,Canada,10,FW,Jonathan David,"January 14, 2000 (aged 26)",77,39,Juventus,5
+Group B,Canada,11,MF,Liam Millar,"September 27, 1999 (aged 26)",41,1,Hull City,5
+Group B,Canada,12,FW,Tani Oluwaseyi,"May 15, 2000 (aged 26)",24,2,Villarreal,5
+Group B,Canada,13,DF,Derek Cornelius,"November 25, 1997 (aged 28)",44,1,Rangers,5
+Group B,Canada,14,MF,Jacob Shaffelburg,"November 26, 1999 (aged 26)",31,6,Los Angeles FC,5
+Group B,Canada,15,DF,Moïse Bombito,"March 30, 2000 (aged 26)",20,0,Nice,5
+Group B,Canada,16,GK,Maxime Crépeau,"May 11, 1994 (aged 32)",32,0,Orlando City SC,5
+Group B,Canada,17,FW,Tajon Buchanan,"February 8, 1999 (aged 27)",60,8,Villarreal,5
+Group B,Canada,18,GK,Owen Goodman,"November 27, 2003 (aged 22)",0,0,Barnsley,5
+Group B,Canada,19,DF,Alphonso Davies (captain),"November 2, 2000 (aged 25)",58,15,Bayern Munich,5
+Group B,Canada,20,FW,Ali Ahmed,"October 10, 2000 (aged 25)",24,1,Norwich City,5
+Group B,Canada,21,MF,Jonathan Osorio,"June 12, 1992 (aged 33)",90,10,Toronto FC,5
+Group B,Canada,22,DF,Richie Laryea,"January 7, 1995 (aged 31)",75,1,Toronto FC,5
+Group B,Canada,23,DF,Niko Sigur,"September 9, 2003 (aged 22)",19,2,Hajduk Split,5
+Group B,Canada,24,FW,Promise David,"July 3, 2001 (aged 24)",10,3,Union Saint-Gilloise,5
+Group B,Canada,25,MF,Nathan Saliba,"February 7, 2004 (aged 22)",15,2,Anderlecht,5
+Group B,Canada,26,MF,Jayden Nelson,"February 7, 2002 (aged 24)",14,3,Austin FC,5
+Group B,Qatar,1,GK,Mahmud Abunada,"February 5, 2000 (aged 26)",5,0,Al-Rayyan,6
+Group B,Qatar,2,DF,Pedro Miguel,"August 6, 1990 (aged 35)",99,3,Al-Sadd,6
+Group B,Qatar,3,DF,Lucas Mendes,"July 3, 1990 (aged 35)",25,1,Al-Wakrah,6
+Group B,Qatar,4,DF,Issa Laye,"December 22, 1997 (aged 28)",4,0,Al-Arabi,6
+Group B,Qatar,5,DF,Jassem Gaber,"February 20, 2002 (aged 24)",32,1,Al-Rayyan,6
+Group B,Qatar,6,MF,Abdulaziz Hatem,"January 1, 1990 (aged 36)",117,11,Al-Rayyan,6
+Group B,Qatar,7,FW,Ahmed Alaaeldin,"January 31, 1993 (aged 33)",68,9,Al-Rayyan,6
+Group B,Qatar,8,FW,Edmilson Junior,"August 19, 1994 (aged 31)",16,0,Al-Duhail,6
+Group B,Qatar,9,FW,Mohammed Muntari,"December 20, 1993 (aged 32)",67,16,Al-Gharafa,6
+Group B,Qatar,10,FW,Hassan Al-Haydos (captain),"December 11, 1990 (aged 35)",186,41,Al-Sadd,6
+Group B,Qatar,11,FW,Akram Afif,"November 18, 1996 (aged 29)",125,39,Al-Sadd,6
+Group B,Qatar,12,MF,Karim Boudiaf,"September 16, 1990 (aged 35)",118,5,Al-Duhail,6
+Group B,Qatar,13,DF,Ayoub Al-Oui,"March 11, 2005 (aged 21)",6,0,Al-Gharafa,6
+Group B,Qatar,14,DF,Homam Ahmed,"August 25, 1999 (aged 26)",68,3,Cultural Leonesa,6
+Group B,Qatar,15,FW,Yusuf Abdurisag,"August 6, 1999 (aged 26)",39,3,Al-Wakrah,6
+Group B,Qatar,16,DF,Boualem Khoukhi,"July 9, 1990 (aged 35)",116,20,Al-Sadd,6
+Group B,Qatar,17,MF,Ahmed Al-Ganehi,"September 22, 2000 (aged 25)",13,1,Al-Gharafa,6
+Group B,Qatar,18,DF,Sultan Al-Brake,"April 7, 1996 (aged 30)",17,0,Al-Duhail,6
+Group B,Qatar,19,FW,Almoez Ali,"August 19, 1996 (aged 29)",115,55,Al-Duhail,6
+Group B,Qatar,20,MF,Ahmed Fathy,"January 25, 1993 (aged 33)",48,0,Al-Arabi,6
+Group B,Qatar,21,GK,Salah Zakaria,"April 24, 1999 (aged 27)",8,0,Al-Duhail,6
+Group B,Qatar,22,GK,Meshaal Barsham,"February 14, 1998 (aged 28)",52,0,Al-Sadd,6
+Group B,Qatar,23,MF,Assim Madibo,"October 22, 1996 (aged 29)",51,0,Al-Wakrah,6
+Group B,Qatar,24,FW,Tahsin Jamshid,"June 16, 2006 (aged 19)",3,0,Al-Duhail,6
+Group B,Qatar,25,DF,Al-Hashmi Al-Hussain,"August 15, 2003 (aged 22)",8,0,Al-Arabi,6
+Group B,Qatar,26,FW,Mohamed Manai,"October 25, 2002 (aged 23)",10,0,Al-Shamal,6
+Group B,Switzerland,1,GK,Gregor Kobel,"December 6, 1997 (aged 28)",21,0,Borussia Dortmund,7
+Group B,Switzerland,2,DF,Miro Muheim,"March 24, 1998 (aged 28)",10,0,Hamburger SV,7
+Group B,Switzerland,3,DF,Silvan Widmer,"March 5, 1993 (aged 33)",60,5,Mainz 05,7
+Group B,Switzerland,4,DF,Nico Elvedi,"September 30, 1996 (aged 29)",67,3,Borussia Mönchengladbach,7
+Group B,Switzerland,5,DF,Manuel Akanji,"July 19, 1995 (aged 30)",81,4,Inter Milan,7
+Group B,Switzerland,6,MF,Denis Zakaria,"November 20, 1996 (aged 29)",65,3,Monaco,7
+Group B,Switzerland,7,FW,Breel Embolo,"February 14, 1997 (aged 29)",86,24,Rennes,7
+Group B,Switzerland,8,MF,Remo Freuler,"April 15, 1992 (aged 34)",88,11,Bologna,7
+Group B,Switzerland,9,MF,Johan Manzambi,"October 14, 2005 (aged 20)",12,3,SC Freiburg,7
+Group B,Switzerland,10,MF,Granit Xhaka (captain),"September 27, 1992 (aged 33)",146,17,Sunderland,7
+Group B,Switzerland,11,FW,Dan Ndoye,"October 25, 2000 (aged 25)",31,8,Nottingham Forest,7
+Group B,Switzerland,12,GK,Yvon Mvogo,"June 6, 1994 (aged 32)",13,0,Lorient,7
+Group B,Switzerland,13,DF,Ricardo Rodriguez,"August 25, 1992 (aged 33)",138,9,Real Betis,7
+Group B,Switzerland,14,MF,Ardon Jashari,"July 30, 2002 (aged 23)",8,0,Milan,7
+Group B,Switzerland,15,MF,Djibril Sow,"February 6, 1997 (aged 29)",52,0,Sevilla,7
+Group B,Switzerland,16,FW,Christian Fassnacht,"November 11, 1993 (aged 32)",23,5,Young Boys,7
+Group B,Switzerland,17,FW,Rubén Vargas,"August 5, 1998 (aged 27)",61,11,Sevilla,7
+Group B,Switzerland,18,DF,Eray Cömert,"February 4, 1998 (aged 28)",22,0,Valencia,7
+Group B,Switzerland,19,FW,Noah Okafor,"May 24, 2000 (aged 26)",25,2,Leeds United,7
+Group B,Switzerland,20,MF,Michel Aebischer,"January 6, 1997 (aged 29)",40,2,Pisa,7
+Group B,Switzerland,21,GK,Marvin Keller,"July 3, 2002 (aged 23)",1,0,Young Boys,7
+Group B,Switzerland,22,MF,Fabian Rieder,"February 16, 2002 (aged 24)",28,1,FC Augsburg,7
+Group B,Switzerland,23,FW,Zeki Amdouni,"December 4, 2000 (aged 25)",29,11,Burnley,7
+Group B,Switzerland,24,DF,Aurèle Amenda,"July 31, 2003 (aged 22)",7,0,Eintracht Frankfurt,7
+Group B,Switzerland,25,DF,Luca Jaquez,"June 2, 2003 (aged 23)",3,0,VfB Stuttgart,7
+Group B,Switzerland,26,FW,Cedric Itten,"December 27, 1996 (aged 29)",15,5,Fortuna Düsseldorf,7
+Group C,Brazil,1,GK,Alisson,"October 2, 1992 (aged 33)",78,0,Liverpool,8
+Group C,Brazil,2,MF,Éderson Silva,"July 7, 1999 (aged 26)",3,0,Atalanta,8
+Group C,Brazil,3,DF,Gabriel Magalhães,"December 19, 1997 (aged 28)",17,1,Arsenal,8
+Group C,Brazil,4,DF,Marquinhos (captain),"May 14, 1994 (aged 32)",105,7,Paris Saint-Germain,8
+Group C,Brazil,5,MF,Casemiro,"February 23, 1992 (aged 34)",86,9,Manchester United,8
+Group C,Brazil,6,DF,Alex Sandro,"January 26, 1991 (aged 35)",45,2,Flamengo,8
+Group C,Brazil,7,FW,Vinícius Júnior,"July 12, 2000 (aged 25)",49,9,Real Madrid,8
+Group C,Brazil,8,MF,Bruno Guimarães,"November 16, 1997 (aged 28)",43,3,Newcastle United,8
+Group C,Brazil,9,FW,Matheus Cunha,"May 27, 1999 (aged 27)",23,1,Manchester United,8
+Group C,Brazil,10,FW,Neymar,"February 5, 1992 (aged 34)",128,79,Santos,8
+Group C,Brazil,11,FW,Raphinha,"December 14, 1996 (aged 29)",39,11,Barcelona,8
+Group C,Brazil,12,GK,Weverton,"December 13, 1987 (aged 38)",11,0,Grêmio,8
+Group C,Brazil,13,DF,Danilo Luiz,"July 15, 1991 (aged 34)",70,1,Flamengo,8
+Group C,Brazil,14,DF,Bremer,"March 18, 1997 (aged 29)",8,1,Juventus,8
+Group C,Brazil,15,DF,Léo Pereira,"January 31, 1996 (aged 30)",4,0,Flamengo,8
+Group C,Brazil,16,DF,Douglas Santos,"March 22, 1994 (aged 32)",7,0,Zenit Saint Petersburg,8
+Group C,Brazil,17,MF,Fabinho,"October 23, 1993 (aged 32)",33,0,Al-Ittihad,8
+Group C,Brazil,18,MF,Danilo Santos,"April 29, 2001 (aged 25)",4,2,Botafogo,8
+Group C,Brazil,19,FW,Endrick,"July 21, 2006 (aged 19)",17,4,Lyon,8
+Group C,Brazil,20,MF,Lucas Paquetá,"August 27, 1997 (aged 28)",63,13,Flamengo,8
+Group C,Brazil,21,FW,Luiz Henrique,"January 2, 2001 (aged 25)",15,2,Zenit Saint Petersburg,8
+Group C,Brazil,22,FW,Gabriel Martinelli,"June 18, 2001 (aged 24)",23,4,Arsenal,8
+Group C,Brazil,23,GK,Ederson Moraes,"August 17, 1993 (aged 32)",32,0,Fenerbahçe,8
+Group C,Brazil,24,DF,Roger Ibañez,"November 23, 1998 (aged 27)",7,0,Al-Ahli,8
+Group C,Brazil,25,FW,Igor Thiago,"June 26, 2001 (aged 24)",4,2,Brentford,8
+Group C,Brazil,26,FW,Rayan,"August 3, 2006 (aged 19)",2,1,Bournemouth,8
+Group C,Haiti,1,GK,Johny Placide (captain),"January 29, 1988 (aged 38)",81,0,Bastia,9
+Group C,Haiti,2,DF,Carlens Arcus,"June 28, 1996 (aged 29)",53,1,Angers,9
+Group C,Haiti,3,DF,Keeto Thermoncy,"March 29, 2006 (aged 20)",1,0,Young Boys,9
+Group C,Haiti,4,DF,Ricardo Adé,"May 21, 1990 (aged 36)",59,2,LDU Quito,9
+Group C,Haiti,5,DF,Hannes Delcroix,"February 28, 1999 (aged 27)",7,0,Lugano,9
+Group C,Haiti,6,MF,Carl Sainté,"August 9, 2002 (aged 23)",26,0,El Paso Locomotive FC,9
+Group C,Haiti,7,FW,Derrick Etienne Jr.,"November 25, 1996 (aged 29)",48,8,Toronto FC,9
+Group C,Haiti,8,DF,Martin Expérience,"March 9, 1999 (aged 27)",21,0,Nancy,9
+Group C,Haiti,9,FW,Duckens Nazon,"April 7, 1994 (aged 32)",78,44,Esteghlal,9
+Group C,Haiti,10,MF,Jean-Ricner Bellegarde,"June 27, 1998 (aged 27)",10,0,Wolverhampton Wanderers,9
+Group C,Haiti,11,FW,Louicius Deedson,"February 11, 2001 (aged 25)",32,10,FC Dallas,9
+Group C,Haiti,12,GK,Alexandre Pierre,"February 25, 2001 (aged 25)",15,0,Sochaux,9
+Group C,Haiti,13,DF,Duke Lacroix,"October 14, 1993 (aged 32)",16,3,Colorado Springs Switchbacks FC,9
+Group C,Haiti,14,MF,Leverton Pierre,"March 9, 1998 (aged 28)",33,0,Vizela,9
+Group C,Haiti,15,FW,Ruben Providence,"July 7, 2001 (aged 24)",15,3,Almere City,9
+Group C,Haiti,16,FW,Lenny Joseph,"October 12, 2000 (aged 25)",2,1,Ferencváros,9
+Group C,Haiti,17,MF,Danley Jean Jacques,"May 20, 2000 (aged 26)",30,6,Philadelphia Union,9
+Group C,Haiti,18,FW,Wilson Isidor,"August 27, 2000 (aged 25)",4,2,Sunderland,9
+Group C,Haiti,19,FW,Yassin Fortuné,"January 30, 1999 (aged 27)",4,0,Vizela,9
+Group C,Haiti,20,FW,Frantzdy Pierrot,"March 29, 1995 (aged 31)",51,34,Çaykur Rizespor,9
+Group C,Haiti,21,FW,Josué Casimir,"September 24, 2001 (aged 24)",7,0,Auxerre,9
+Group C,Haiti,22,DF,Jean-Kévin Duverne,"July 12, 1997 (aged 28)",17,1,Gent,9
+Group C,Haiti,23,GK,Josué Duverger,"April 27, 2000 (aged 26)",6,0,Cosmos Koblenz,9
+Group C,Haiti,24,DF,Wilguens Paugain,"August 24, 2001 (aged 24)",8,0,Zulte Waregem,9
+Group C,Haiti,25,MF,Dominique Simon,"July 29, 2000 (aged 25)",2,0,Tatran Prešov,9
+Group C,Haiti,26,MF,Woodensky Pierre,"December 30, 2004 (aged 21)",1,0,Violette,9
+Group C,Morocco,1,GK,Yassine Bounou,"April 5, 1991 (aged 35)",90,0,Al-Hilal,10
+Group C,Morocco,2,DF,Achraf Hakimi (captain),"November 4, 1998 (aged 27)",96,11,Paris Saint-Germain,10
+Group C,Morocco,3,DF,Noussair Mazraoui,"November 14, 1997 (aged 28)",45,2,Manchester United,10
+Group C,Morocco,4,MF,Sofyan Amrabat,"August 21, 1996 (aged 29)",75,0,Real Betis,10
+Group C,Morocco,5,DF,Nayef Aguerd,"March 30, 1996 (aged 30)",64,2,Marseille,10
+Group C,Morocco,6,MF,Ayyoub Bouaddi,"October 2, 2007 (aged 18)",4,0,Lille,10
+Group C,Morocco,7,MF,Chemsdine Talbi,"May 9, 2005 (aged 21)",5,0,Sunderland,10
+Group C,Morocco,8,MF,Azzedine Ounahi,"April 19, 2000 (aged 26)",49,9,Girona,10
+Group C,Morocco,9,FW,Soufiane Rahimi,"June 2, 1996 (aged 30)",37,12,Al Ain,10
+Group C,Morocco,10,FW,Brahim Díaz,"August 3, 1999 (aged 26)",26,14,Real Madrid,10
+Group C,Morocco,11,MF,Ismael Saibari,"January 28, 2001 (aged 25)",31,9,PSV Eindhoven,10
+Group C,Morocco,12,GK,Munir Mohamedi,"May 10, 1989 (aged 37)",53,0,RS Berkane,10
+Group C,Morocco,13,DF,Zakaria El Ouahdi,"December 31, 2001 (aged 24)",3,0,Genk,10
+Group C,Morocco,14,DF,Issa Diop,"January 9, 1997 (aged 29)",4,0,Fulham,10
+Group C,Morocco,15,MF,Samir El Mourabet,"October 6, 2005 (aged 20)",4,0,Strasbourg,10
+Group C,Morocco,16,MF,Gessime Yassine,"November 22, 2005 (aged 20)",5,0,Strasbourg,10
+Group C,Morocco,17,FW,Abde Ezzalzouli,"December 17, 2001 (aged 24)",37,2,Real Betis,10
+Group C,Morocco,18,DF,Chadi Riad,"June 17, 2003 (aged 22)",6,1,Crystal Palace,10
+Group C,Morocco,19,DF,Youssef Belammari,"September 20, 1998 (aged 27)",19,0,Al Ahly,10
+Group C,Morocco,20,FW,Ayoub El Kaabi,"June 25, 1993 (aged 32)",71,35,Olympiacos,10
+Group C,Morocco,21,FW,Ayoube Amaimouni,"November 30, 2004 (aged 21)",2,0,Eintracht Frankfurt,10
+Group C,Morocco,22,GK,Ahmed Reda Tagnaouti,"April 5, 1996 (aged 30)",3,0,AS FAR,10
+Group C,Morocco,23,MF,Bilal El Khannouss,"May 10, 2004 (aged 22)",37,3,VfB Stuttgart,10
+Group C,Morocco,24,MF,Neil El Aynaoui,"July 2, 2001 (aged 24)",16,2,Roma,10
+Group C,Morocco,25,DF,Redouane Halhal,"March 5, 2003 (aged 23)",3,0,Mechelen,10
+Group C,Morocco,26,DF,Anass Salah-Eddine,"January 18, 2002 (aged 24)",9,0,PSV Eindhoven,10
+Group C,Scotland,1,GK,Angus Gunn,"January 22, 1996 (aged 30)",22,0,Nottingham Forest,11
+Group C,Scotland,2,DF,Aaron Hickey,"June 10, 2002 (aged 24)",21,0,Brentford,11
+Group C,Scotland,3,DF,Andy Robertson (captain),"March 11, 1994 (aged 32)",94,4,Liverpool,11
+Group C,Scotland,4,MF,Scott McTominay,"December 8, 1996 (aged 29)",70,15,Napoli,11
+Group C,Scotland,5,DF,Grant Hanley,"November 20, 1991 (aged 34)",68,2,Hibernian,11
+Group C,Scotland,6,DF,Kieran Tierney,"June 5, 1997 (aged 29)",56,2,Celtic,11
+Group C,Scotland,7,MF,John McGinn,"October 18, 1994 (aged 31)",86,20,Aston Villa,11
+Group C,Scotland,8,MF,Tyler Fletcher,"March 19, 2007 (aged 19)",2,0,Manchester United,11
+Group C,Scotland,9,FW,Lyndon Dykes,"October 7, 1995 (aged 30)",51,10,Charlton Athletic,11
+Group C,Scotland,10,FW,Ché Adams,"July 13, 1996 (aged 29)",47,13,Torino,11
+Group C,Scotland,11,MF,Ryan Christie,"February 22, 1995 (aged 31)",68,10,Bournemouth,11
+Group C,Scotland,12,GK,Liam Kelly,"January 23, 1996 (aged 30)",3,0,Rangers,11
+Group C,Scotland,13,DF,Jack Hendry,"May 7, 1995 (aged 31)",38,3,Al-Ettifaq,11
+Group C,Scotland,14,FW,Ross Stewart,"July 11, 1996 (aged 29)",3,0,Southampton,11
+Group C,Scotland,15,DF,John Souttar,"September 25, 1996 (aged 29)",24,2,Rangers,11
+Group C,Scotland,16,DF,Dominic Hyam,"December 20, 1995 (aged 30)",4,0,Wrexham,11
+Group C,Scotland,17,FW,Ben Gannon-Doak,"November 11, 2005 (aged 20)",14,1,Bournemouth,11
+Group C,Scotland,18,FW,George Hirst,"February 15, 1999 (aged 27)",10,1,Ipswich Town,11
+Group C,Scotland,19,MF,Lewis Ferguson,"August 24, 1999 (aged 26)",24,1,Bologna,11
+Group C,Scotland,20,FW,Lawrence Shankland,"August 10, 1995 (aged 30)",20,7,Heart of Midlothian,11
+Group C,Scotland,21,GK,Craig Gordon,"December 31, 1982 (aged 43)",84,0,Heart of Midlothian,11
+Group C,Scotland,22,DF,Nathan Patterson,"October 16, 2001 (aged 24)",26,1,Everton,11
+Group C,Scotland,23,MF,Kenny McLean,"January 8, 1992 (aged 34)",58,3,Norwich City,11
+Group C,Scotland,24,DF,Anthony Ralston,"November 16, 1998 (aged 27)",27,1,Celtic,11
+Group C,Scotland,25,FW,Findlay Curtis,"June 9, 2006 (aged 20)",3,1,Kilmarnock,11
+Group E,Ecuador,26,DF,Yaimar Medina,"November 5, 2004 (aged 21)",6,0,Genk,17
+Group E,Germany,1,GK,Manuel Neuer,"March 27, 1986 (aged 40)",124,0,Bayern Munich,18
+Group E,Germany,2,DF,Antonio Rüdiger,"March 3, 1993 (aged 33)",82,3,Real Madrid,18
+Group E,Germany,3,DF,Waldemar Anton,"July 20, 1996 (aged 29)",13,0,Borussia Dortmund,18
+Group E,Germany,4,DF,Jonathan Tah,"February 11, 1996 (aged 30)",47,1,Bayern Munich,18
+Group E,Germany,5,MF,Aleksandar Pavlović,"May 3, 2004 (aged 22)",11,1,Bayern Munich,18
+Group E,Germany,6,DF,Joshua Kimmich (captain),"February 8, 1995 (aged 31)",110,10,Bayern Munich,18
+Group E,Germany,7,FW,Kai Havertz,"June 11, 1999 (aged 27)",58,22,Arsenal,18
+Group E,Germany,8,MF,Leon Goretzka,"February 6, 1995 (aged 31)",70,15,Bayern Munich,18
+Group E,Germany,9,MF,Jamie Leweling,"February 26, 2001 (aged 25)",5,1,VfB Stuttgart,18
+Group E,Germany,10,MF,Jamal Musiala,"February 26, 2003 (aged 23)",42,9,Bayern Munich,18
+Group E,Germany,11,FW,Nick Woltemade,"February 14, 2002 (aged 24)",11,4,Newcastle United,18
+Group E,Germany,12,GK,Oliver Baumann,"June 2, 1990 (aged 36)",13,0,TSG Hoffenheim,18
+Group E,Germany,13,MF,Pascal Groß,"June 15, 1991 (aged 34)",18,1,Brighton & Hove Albion,18
+Group E,Germany,14,FW,Maximilian Beier,"October 17, 2002 (aged 23)",9,0,Borussia Dortmund,18
+Group E,Germany,15,DF,Nico Schlotterbeck,"December 1, 1999 (aged 26)",27,0,Borussia Dortmund,18
+Group E,Germany,16,MF,Angelo Stiller,"April 4, 2001 (aged 25)",8,0,VfB Stuttgart,18
+Group E,Germany,17,MF,Florian Wirtz,"May 3, 2003 (aged 23)",41,11,Liverpool,18
+Group E,Germany,18,DF,Nathaniel Brown,"June 16, 2003 (aged 22)",5,0,Eintracht Frankfurt,18
+Group E,Germany,19,MF,Leroy Sané,"January 11, 1996 (aged 30)",76,17,Galatasaray,18
+Group E,Germany,20,MF,Nadiem Amiri,"October 27, 1996 (aged 29)",11,1,Mainz 05,18
+Group E,Germany,21,GK,Alexander Nübel,"September 30, 1996 (aged 29)",3,0,VfB Stuttgart,18
+Group E,Germany,22,DF,David Raum,"April 22, 1998 (aged 28)",37,1,RB Leipzig,18
+Group E,Germany,23,MF,Felix Nmecha,"October 10, 2000 (aged 25)",8,1,Borussia Dortmund,18
+Group E,Germany,24,DF,Malick Thiaw,"August 8, 2001 (aged 24)",5,0,Newcastle United,18
+Group E,Germany,25,MF,Assan Ouédraogo,"May 9, 2006 (aged 20)",1,1,RB Leipzig,18
+Group E,Germany,26,FW,Deniz Undav,"July 19, 1996 (aged 29)",9,6,VfB Stuttgart,18
+Group E,Ivory Coast,1,GK,Yahia Fofana,"August 21, 2000 (aged 25)",35,0,Çaykur Rizespor,19
+Group E,Ivory Coast,2,DF,Ousmane Diomande,"December 4, 2003 (aged 22)",15,1,Sporting CP,19
+Group E,Ivory Coast,3,DF,Ghislain Konan,"December 27, 1995 (aged 30)",54,0,Gil Vicente,19
+Group E,Ivory Coast,4,MF,Jean Michaël Seri,"July 19, 1991 (aged 34)",65,4,Maribor,19
+Group E,Ivory Coast,5,DF,Wilfried Singo,"December 25, 2000 (aged 25)",34,1,Galatasaray,19
+Group E,Ivory Coast,6,MF,Seko Fofana,"May 7, 1995 (aged 31)",32,7,Porto,19
+Group E,Ivory Coast,7,DF,Odilon Kossounou,"January 4, 2001 (aged 25)",35,0,Atalanta,19
+Group E,Ivory Coast,8,MF,Franck Kessié (captain),"December 19, 1996 (aged 29)",103,15,Al-Ahli,19
+Group E,Ivory Coast,9,FW,Ange-Yoan Bonny,"October 25, 2003 (aged 22)",1,0,Inter Milan,19
+Group E,Ivory Coast,10,FW,Simon Adingra,"January 1, 2002 (aged 24)",29,5,Monaco,19
+Group E,Ivory Coast,11,FW,Yan Diomande,"November 14, 2006 (aged 19)",10,3,RB Leipzig,19
+Group E,Ivory Coast,12,FW,Elye Wahi,"January 2, 2003 (aged 23)",2,0,Nice,19
+Group E,Ivory Coast,13,DF,Christopher Opéri,"April 29, 1997 (aged 29)",12,0,İstanbul Başakşehir,19
+Group E,Ivory Coast,14,FW,Oumar Diakité,"December 20, 2003 (aged 22)",29,6,Cercle Brugge,19
+Group E,Ivory Coast,15,FW,Amad Diallo,"July 11, 2002 (aged 23)",19,6,Manchester United,19
+Group E,Ivory Coast,16,GK,Mohamed Koné,"March 7, 2002 (aged 24)",0,0,Charleroi,19
+Group E,Ivory Coast,17,DF,Guéla Doué,"October 17, 2002 (aged 23)",20,3,Strasbourg,19
+Group E,Ivory Coast,18,MF,Ibrahim Sangaré,"December 2, 1997 (aged 28)",58,12,Nottingham Forest,19
+Group E,Ivory Coast,19,FW,Nicolas Pépé,"May 29, 1995 (aged 31)",55,12,Villarreal,19
+Group E,Ivory Coast,20,DF,Emmanuel Agbadou,"June 17, 1997 (aged 28)",20,2,Beşiktaş,19
+Group E,Ivory Coast,21,DF,Evan Ndicka,"August 20, 1999 (aged 26)",28,0,Roma,19
+Group E,Ivory Coast,22,FW,Evann Guessand,"July 1, 2001 (aged 24)",21,4,Crystal Palace,19
+Group E,Ivory Coast,23,GK,Alban Lafont,"January 23, 1999 (aged 27)",4,0,Panathinaikos,19
+Group E,Ivory Coast,24,FW,Bazoumana Touré,"March 2, 2006 (aged 20)",6,2,TSG Hoffenheim,19
+Group E,Ivory Coast,25,MF,Parfait Guiagon,"February 22, 2001 (aged 25)",5,0,Charleroi,19
+Group E,Ivory Coast,26,MF,Christ Inao Oulaï,"April 6, 2006 (aged 20)",9,0,Trabzonspor,19
+Group F,Japan,1,GK,Zion Suzuki,"August 21, 2002 (aged 23)",24,0,Parma,20
+Group F,Japan,2,DF,Yukinari Sugawara,"June 28, 2000 (aged 25)",21,2,Werder Bremen,20
+Group F,Japan,3,DF,Shōgo Taniguchi,"July 15, 1991 (aged 34)",38,1,Sint-Truiden,20
+Group F,Japan,4,DF,Kō Itakura,"January 27, 1997 (aged 29)",40,2,Ajax,20
+Group F,Japan,5,DF,Yūto Nagatomo,"September 12, 1986 (aged 39)",145,4,FC Tokyo,20
+Group F,Japan,6,MF,Wataru Endo (captain),"February 9, 1993 (aged 33)",73,4,Liverpool,20
+Group F,Japan,7,MF,Ao Tanaka,"September 10, 1998 (aged 27)",38,8,Leeds United,20
+Group F,Japan,8,MF,Takefusa Kubo,"June 4, 2001 (aged 25)",49,7,Real Sociedad,20
+Group F,Japan,9,FW,Keisuke Gotō,"June 3, 2005 (aged 21)",4,0,Sint-Truiden,20
+Group F,Japan,10,MF,Ritsu Dōan,"June 16, 1998 (aged 27)",65,11,Eintracht Frankfurt,20
+Group F,Japan,11,MF,Daizen Maeda,"October 20, 1997 (aged 28)",27,4,Celtic,20
+Group F,Japan,12,GK,Keisuke Ōsako,"July 28, 1999 (aged 26)",11,0,Sanfrecce Hiroshima,20
+Group F,Japan,13,MF,Keito Nakamura,"July 28, 2000 (aged 25)",25,10,Reims,20
+Group F,Japan,14,MF,Junya Itō,"March 9, 1993 (aged 33)",69,15,Genk,20
+Group F,Japan,15,MF,Daichi Kamada,"August 5, 1996 (aged 29)",49,12,Crystal Palace,20
+Group F,Japan,16,DF,Tsuyoshi Watanabe,"February 5, 1997 (aged 29)",11,0,Feyenoord,20
+Group F,Japan,17,MF,Yuito Suzuki,"October 25, 2001 (aged 24)",6,0,SC Freiburg,20
+Group F,Japan,18,FW,Ayase Ueda,"August 28, 1998 (aged 27)",39,16,Feyenoord,20
+Group F,Japan,19,FW,Kōki Ogawa,"August 8, 1997 (aged 28)",15,11,NEC,20
+Group F,Japan,20,DF,Ayumu Seko,"June 7, 2000 (aged 26)",14,0,Le Havre,20
+Group F,Japan,21,DF,Hiroki Itō,"May 12, 1999 (aged 27)",24,1,Bayern Munich,20
+Group F,Japan,22,DF,Takehiro Tomiyasu,"November 5, 1998 (aged 27)",43,1,Ajax,20
+Group F,Japan,23,GK,Tomoki Hayakawa,"March 3, 1999 (aged 27)",4,0,Kashima Antlers,20
+Group F,Japan,24,MF,Kaishū Sano,"December 30, 2000 (aged 25)",13,0,Mainz 05,20
+Group F,Japan,25,DF,Junnosuke Suzuki,"July 12, 2003 (aged 22)",6,0,Copenhagen,20
+Group F,Japan,26,FW,Kento Shiogai,"March 26, 2005 (aged 21)",2,0,VfL Wolfsburg,20
+Group F,Netherlands,1,GK,Bart Verbruggen,"August 18, 2002 (aged 23)",29,0,Brighton & Hove Albion,21
+Group F,Netherlands,2,DF,Lutsharel Geertruida,"July 18, 2000 (aged 25)",21,0,Sunderland,21
+Group F,Netherlands,3,MF,Marten de Roon,"March 29, 1991 (aged 35)",43,1,Atalanta,21
+Group F,Netherlands,4,DF,Virgil van Dijk (captain),"July 8, 1991 (aged 34)",92,12,Liverpool,21
+Group F,Netherlands,5,DF,Nathan Aké,"February 18, 1995 (aged 31)",59,5,Manchester City,21
+Group F,Netherlands,6,DF,Jan Paul van Hecke,"June 8, 2000 (aged 26)",12,0,Brighton & Hove Albion,21
+Group F,Netherlands,7,MF,Justin Kluivert,"May 5, 1999 (aged 27)",12,0,Bournemouth,21
+Group F,Netherlands,8,MF,Ryan Gravenberch,"May 16, 2002 (aged 24)",27,1,Liverpool,21
+Group F,Netherlands,9,FW,Wout Weghorst,"August 7, 1992 (aged 33)",52,14,Ajax,21
+Group F,Netherlands,10,FW,Memphis Depay,"February 13, 1994 (aged 32)",109,55,Corinthians,21
+Group F,Netherlands,11,FW,Cody Gakpo,"May 7, 1999 (aged 27)",50,21,Liverpool,21
+Group F,Netherlands,12,DF,Mats Wieffer,"November 16, 1999 (aged 26)",15,1,Brighton & Hove Albion,21
+Group F,Netherlands,13,GK,Robin Roefs,"January 17, 2003 (aged 23)",1,0,Sunderland,21
+Group F,Netherlands,14,MF,Tijjani Reijnders,"July 29, 1998 (aged 27)",32,7,Manchester City,21
+Group F,Netherlands,15,DF,Micky van de Ven,"April 19, 2001 (aged 25)",21,1,Tottenham Hotspur,21
+Group F,Netherlands,16,MF,Guus Til,"December 22, 1997 (aged 28)",7,1,PSV Eindhoven,21
+Group F,Netherlands,17,FW,Noa Lang,"June 17, 1999 (aged 26)",15,3,Galatasaray,21
+Group F,Netherlands,18,FW,Donyell Malen,"January 19, 1999 (aged 27)",53,13,Roma,21
+Group F,Netherlands,19,FW,Brian Brobbey,"February 1, 2002 (aged 24)",12,1,Sunderland,21
+Group F,Netherlands,20,MF,Teun Koopmeiners,"February 28, 1998 (aged 28)",28,3,Juventus,21
+Group F,Netherlands,21,MF,Frenkie de Jong,"May 12, 1997 (aged 29)",66,2,Barcelona,21
+Group F,Netherlands,22,DF,Denzel Dumfries,"April 18, 1996 (aged 30)",72,11,Inter Milan,21
+Group F,Netherlands,23,GK,Mark Flekken,"June 13, 1993 (aged 32)",12,0,Bayer Leverkusen,21
+Group F,Netherlands,24,FW,Crysencio Summerville,"October 30, 2001 (aged 24)",2,0,West Ham United,21
+Group F,Netherlands,25,DF,Jorrel Hato,"March 7, 2006 (aged 20)",8,0,Chelsea,21
+Group F,Netherlands,26,MF,Quinten Timber,"June 17, 2001 (aged 24)",11,1,Marseille,21
+Group F,Sweden,1,GK,Jacob Widell Zetterström,"July 11, 1998 (aged 27)",3,0,Derby County,22
+Group F,Sweden,2,DF,Gustaf Lagerbielke,"April 10, 2000 (aged 26)",11,2,Braga,22
+Group F,Sweden,3,DF,Victor Lindelöf (captain),"July 17, 1994 (aged 31)",76,3,Aston Villa,22
+Group F,Sweden,4,DF,Isak Hien,"January 13, 1999 (aged 27)",29,0,Atalanta,22
+Group F,Sweden,5,DF,Gabriel Gudmundsson,"April 29, 1999 (aged 27)",24,0,Leeds United,22
+Group F,Sweden,6,DF,Herman Johansson,"October 16, 1997 (aged 28)",3,0,FC Dallas,22
+Group F,Sweden,7,MF,Lucas Bergvall,"February 2, 2006 (aged 20)",10,0,Tottenham Hotspur,22
+Group F,Sweden,8,DF,Daniel Svensson,"February 12, 2002 (aged 24)",13,0,Borussia Dortmund,22
+Group F,Sweden,9,FW,Alexander Isak,"September 21, 1999 (aged 26)",58,17,Liverpool,22
+Group F,Sweden,10,MF,Benjamin Nygren,"July 8, 2001 (aged 24)",11,3,Celtic,22
+Group F,Sweden,11,FW,Anthony Elanga,"April 27, 2002 (aged 24)",30,6,Newcastle United,22
+Group F,Sweden,12,GK,Viktor Johansson,"September 14, 1998 (aged 27)",12,0,Stoke City,22
+Group F,Sweden,13,MF,Ken Sema,"September 30, 1993 (aged 32)",33,5,Pafos,22
+Group F,Sweden,14,DF,Hjalmar Ekdal,"October 21, 1998 (aged 27)",13,0,Burnley,22
+Group F,Sweden,15,DF,Carl Starfelt,"June 1, 1995 (aged 31)",18,0,Celta Vigo,22
+Group F,Sweden,16,MF,Jesper Karlström,"June 21, 1995 (aged 30)",25,0,Udinese,22
+Group F,Sweden,17,FW,Viktor Gyökeres,"June 4, 1998 (aged 28)",33,20,Arsenal,22
+Group F,Sweden,18,MF,Yasin Ayari,"October 6, 2003 (aged 22)",21,3,Brighton & Hove Albion,22
+Group F,Sweden,19,MF,Mattias Svanberg,"January 5, 1999 (aged 27)",41,2,VfL Wolfsburg,22
+Group F,Sweden,20,DF,Eric Smith,"January 8, 1997 (aged 29)",2,0,FC St. Pauli,22
+Group F,Sweden,21,DF,Alexander Bernhardsson,"September 8, 1998 (aged 27)",11,0,Holstein Kiel,22
+Group F,Sweden,22,MF,Besfort Zeneli,"November 21, 2002 (aged 23)",8,0,Union Saint-Gilloise,22
+Group F,Sweden,23,GK,Kristoffer Nordfeldt,"June 23, 1989 (aged 36)",21,0,AIK,22
+Group F,Sweden,24,DF,Elliot Stroud,"June 22, 2002 (aged 23)",1,0,Mjällby AIF,22
+Group F,Sweden,25,FW,Gustaf Nilsson,"May 23, 1997 (aged 29)",10,4,Club Brugge,22
+Group F,Sweden,26,FW,Taha Ali,"July 1, 1998 (aged 27)",2,0,Malmö FF,22
+Group F,Tunisia,1,GK,Mouhib Chamakh,"August 25, 2001 (aged 24)",2,0,Club Africain,23
+Group F,Tunisia,2,DF,Ali Abdi,"December 20, 1993 (aged 32)",46,7,Nice,23
+Group F,Tunisia,3,DF,Montassar Talbi,"May 26, 1998 (aged 28)",64,4,Lorient,23
+Group F,Tunisia,4,DF,Omar Rekik,"December 20, 2001 (aged 24)",6,0,Maribor,23
+Group F,Tunisia,5,DF,Adem Arous,"July 17, 2004 (aged 21)",2,0,Kasımpaşa,23
+Group F,Tunisia,6,DF,Dylan Bronn,"June 19, 1995 (aged 30)",52,2,Servette,23
+Group F,Tunisia,7,FW,Elias Achouri,"February 10, 1999 (aged 27)",30,4,Copenhagen,23
+Group F,Tunisia,8,FW,Elias Saad,"December 27, 1999 (aged 26)",15,4,Hannover 96,23
+Group F,Tunisia,9,FW,Hazem Mastouri,"June 18, 1997 (aged 28)",19,4,Dynamo Makhachkala,23
+Group F,Tunisia,10,MF,Hannibal Mejbri,"January 21, 2003 (aged 23)",45,1,Burnley,23
+Group F,Tunisia,11,MF,Ismaël Gharbi,"April 10, 2004 (aged 22)",17,2,FC Augsburg,23
+Group F,Tunisia,12,DF,Mortadha Ben Ouanes,"July 2, 1994 (aged 31)",18,0,Kasımpaşa,23
+Group F,Tunisia,13,MF,Rani Khedira,"January 27, 1994 (aged 32)",3,0,Union Berlin,23
+Group F,Tunisia,14,MF,Khalil Ayari,"February 2, 2005 (aged 21)",4,0,Paris Saint-Germain,23
+Group F,Tunisia,15,MF,Hadj Mahmoud,"April 24, 2000 (aged 26)",9,0,Lugano,23
+Group F,Tunisia,16,GK,Aymen Dahmen,"January 28, 1997 (aged 29)",37,0,CS Sfaxien,23
+Group F,Tunisia,17,MF,Ellyes Skhiri (captain),"May 10, 1995 (aged 31)",83,4,Eintracht Frankfurt,23
+Group F,Tunisia,18,FW,Rayan Elloumi,"September 17, 2007 (aged 18)",4,0,Vancouver Whitecaps FC,23
+Group F,Tunisia,19,FW,Firas Chaouat,"May 8, 1996 (aged 30)",30,6,Club Africain,23
+Group F,Tunisia,20,DF,Yan Valery,"February 22, 1999 (aged 27)",22,0,Young Boys,23
+Group F,Tunisia,21,DF,Mohamed Amine Ben Hamida,"December 15, 1995 (aged 30)",13,0,Espérance de Tunis,23
+Group F,Tunisia,22,GK,Sabri Ben Hessen,"June 13, 1996 (aged 29)",2,0,Étoile du Sahel,23
+Group F,Tunisia,23,DF,Moutaz Neffati,"September 4, 2004 (aged 21)",5,0,IFK Norrköping,23
+Group F,Tunisia,24,DF,Raed Chikhaoui,"June 9, 2004 (aged 22)",0,0,US Monastir,23
+Group F,Tunisia,25,MF,Anis Ben Slimane,"March 16, 2001 (aged 25)",41,4,Norwich City,23
+Group F,Tunisia,26,MF,Sebastian Tounekti,"July 13, 2002 (aged 23)",12,1,Celtic,23
+Group G,Belgium,1,GK,Thibaut Courtois,"May 11, 1992 (aged 34)",109,0,Real Madrid,24
+Group G,Belgium,2,DF,Zeno Debast,"October 24, 2003 (aged 22)",26,1,Sporting CP,24
+Group G,Belgium,3,DF,Arthur Theate,"May 25, 2000 (aged 26)",33,1,Eintracht Frankfurt,24
+Group G,Belgium,4,DF,Brandon Mechele,"January 28, 1993 (aged 33)",9,1,Club Brugge,24
+Group G,Belgium,5,DF,Maxim De Cuyper,"December 22, 2000 (aged 25)",19,4,Brighton & Hove Albion,24
+Group G,Belgium,6,MF,Axel Witsel,"January 12, 1989 (aged 37)",138,12,Girona,24
+Group G,Belgium,7,MF,Kevin De Bruyne,"June 28, 1991 (aged 34)",119,37,Napoli,24
+Group G,Belgium,8,MF,Youri Tielemans (captain),"May 7, 1997 (aged 29)",85,13,Aston Villa,24
+Group G,Belgium,9,FW,Romelu Lukaku,"May 13, 1993 (aged 33)",126,90,Napoli,24
+Group G,Belgium,10,FW,Leandro Trossard,"December 4, 1994 (aged 31)",51,12,Arsenal,24
+Group G,Belgium,11,FW,Jérémy Doku,"May 27, 2002 (aged 24)",43,7,Manchester City,24
+Group G,Belgium,12,GK,Senne Lammens,"July 7, 2002 (aged 23)",2,0,Manchester United,24
+Group G,Belgium,13,GK,Mike Penders,"July 31, 2005 (aged 20)",0,0,Strasbourg,24
+Group G,Belgium,14,FW,Dodi Lukébakio,"September 24, 1997 (aged 28)",30,6,Benfica,24
+Group G,Belgium,15,DF,Thomas Meunier,"September 12, 1991 (aged 34)",80,10,Lille,24
+Group G,Belgium,16,DF,Koni De Winter,"June 12, 2002 (aged 23)",8,0,Milan,24
+Group G,Belgium,17,FW,Charles De Ketelaere,"March 10, 2001 (aged 25)",30,6,Atalanta,24
+Group G,Belgium,18,DF,Joaquin Seys,"March 28, 2005 (aged 21)",5,0,Club Brugge,24
+Group G,Belgium,19,MF,Diego Moreira,"August 6, 2004 (aged 21)",3,0,Strasbourg,24
+Group G,Belgium,20,MF,Hans Vanaken,"August 24, 1992 (aged 33)",34,7,Club Brugge,24
+Group G,Belgium,21,DF,Timothy Castagne,"December 5, 1995 (aged 30)",63,2,Fulham,24
+Group G,Belgium,22,MF,Alexis Saelemaekers,"June 27, 1999 (aged 26)",24,2,Milan,24
+Group G,Belgium,23,MF,Nicolas Raskin,"February 23, 2001 (aged 25)",13,2,Rangers,24
+Group G,Belgium,24,MF,Amadou Onana,"August 16, 2001 (aged 24)",29,1,Aston Villa,24
+Group G,Belgium,25,DF,Nathan Ngoy,"June 10, 2003 (aged 23)",4,0,Lille,24
+Group G,Belgium,26,FW,Matias Fernandez-Pardo,"February 3, 2005 (aged 21)",2,0,Lille,24
+Group G,Egypt,1,GK,Mohamed El Shenawy,"December 18, 1988 (aged 37)",76,0,Al Ahly,25
+Group G,Egypt,2,DF,Yasser Ibrahim,"February 10, 1993 (aged 33)",17,1,Al Ahly,25
+Group G,Egypt,3,DF,Mohamed Hany,"February 2, 1996 (aged 30)",42,0,Al Ahly,25
+Group G,Egypt,4,DF,Hossam Abdelmaguid,"April 30, 2001 (aged 25)",13,0,Zamalek,25
+Group G,Egypt,5,DF,Ramy Rabia,"May 20, 1993 (aged 33)",44,5,Al Ain,25
+Group G,Egypt,6,DF,Mohamed Abdelmonem,"February 1, 1999 (aged 27)",36,3,Nice,25
+Group G,Egypt,7,FW,Trézéguet,"October 1, 1994 (aged 31)",96,23,Al Ahly,25
+Group G,Egypt,8,MF,Emam Ashour,"February 20, 1998 (aged 28)",29,0,Al Ahly,25
+Group G,Egypt,9,FW,Hamza Abdelkarim,"January 1, 2008 (aged 18)",2,0,Barcelona B,25
+Group G,Egypt,10,FW,Mohamed Salah (captain),"June 15, 1992 (aged 33)",116,67,Liverpool,25
+Group G,Egypt,11,MF,Mostafa Ziko,"April 27, 1997 (aged 29)",2,2,Pyramids,25
+Group G,Egypt,12,FW,Haissem Hassan,"February 8, 2002 (aged 24)",4,0,Oviedo,25
+Group G,Egypt,13,DF,Ahmed Fatouh,"March 22, 1998 (aged 28)",39,1,Zamalek,25
+Group G,Egypt,14,MF,Hamdy Fathy,"September 29, 1994 (aged 31)",63,3,Al-Wakrah,25
+Group G,Egypt,15,DF,Karim Hafez,"March 12, 1996 (aged 30)",9,0,Pyramids,25
+Group G,Egypt,16,GK,El Mahdy Soliman,"June 8, 1987 (aged 39)",0,0,Zamalek,25
+Group G,Egypt,17,MF,Mohanad Lasheen,"May 29, 1996 (aged 30)",23,0,Pyramids,25
+Group G,Egypt,18,MF,Nabil Emad,"April 6, 1996 (aged 30)",12,0,Al-Najma,25
+Group G,Egypt,19,MF,Marwan Attia,"August 1, 1998 (aged 27)",34,1,Al Ahly,25
+Group G,Egypt,20,FW,Ibrahim Adel,"April 23, 2001 (aged 25)",24,3,Nordsjælland,25
+Group G,Egypt,21,MF,Mahmoud Saber,"July 30, 2001 (aged 24)",15,1,ZED,25
+Group G,Egypt,22,FW,Omar Marmoush,"February 7, 1999 (aged 27)",49,11,Manchester City,25
+Group G,Egypt,23,GK,Mostafa Shobeir,"May 15, 2000 (aged 26)",9,0,Al Ahly,25
+Group G,Egypt,24,DF,Tarek Alaa,"January 5, 2002 (aged 24)",3,0,ZED,25
+Group G,Egypt,25,FW,Zizo,"January 10, 1996 (aged 30)",63,5,Al Ahly,25
+Group G,Egypt,26,GK,Mohamed Alaa,"January 1, 1999 (aged 27)",0,0,El Gouna,25
+Group G,Iran,1,GK,Alireza Beiranvand,"September 21, 1992 (aged 33)",86,0,Tractor,26
+Group G,Iran,2,DF,Saleh Hardani,"December 26, 1998 (aged 27)",18,1,Esteghlal,26
+Group G,Iran,3,DF,Ehsan Hajsafi (captain),"February 25, 1990 (aged 36)",146,7,Sepahan,26
+Group G,Iran,4,DF,Shojae Khalilzadeh,"May 14, 1989 (aged 37)",58,2,Tractor,26
+Group G,Iran,5,DF,Milad Mohammadi,"September 29, 1993 (aged 32)",76,1,Persepolis,26
+Group G,Iran,6,MF,Saeid Ezatolahi,"October 1, 1996 (aged 29)",83,2,Shabab Al Ahli,26
+Group G,Iran,7,MF,Alireza Jahanbakhsh,"August 11, 1993 (aged 32)",98,17,Dender,26
+Group G,Iran,8,MF,Mohammad Mohebi,"December 20, 1998 (aged 27)",36,14,Rostov,26
+Group G,Iran,9,FW,Mehdi Taremi,"July 18, 1992 (aged 33)",105,60,Olympiacos,26
+Group G,Iran,10,FW,Mehdi Ghayedi,"December 5, 1998 (aged 27)",30,10,Al Nasr,26
+Group G,Iran,11,FW,Ali Alipour,"November 11, 1995 (aged 30)",14,1,Persepolis,26
+Group G,Iran,12,GK,Payam Niazmand,"April 6, 1995 (aged 31)",15,0,Persepolis,26
+Group G,Iran,13,DF,Hossein Kanaanizadegan,"March 23, 1994 (aged 32)",65,6,Persepolis,26
+Group G,Iran,14,MF,Saman Ghoddos,"September 6, 1993 (aged 32)",68,3,Kalba,26
+Group G,Iran,15,MF,Rouzbeh Cheshmi,"July 24, 1993 (aged 32)",40,3,Esteghlal,26
+Group G,Iran,16,MF,Mehdi Torabi,"September 10, 1994 (aged 31)",52,7,Tractor,26
+Group G,Iran,17,DF,Aria Yousefi,"April 22, 2002 (aged 24)",14,1,Sepahan,26
+Group G,Iran,18,FW,Amirhossein Hosseinzadeh,"October 30, 2000 (aged 25)",18,5,Tractor,26
+Group G,Iran,19,DF,Ali Nemati,"February 8, 1996 (aged 30)",17,0,Foolad,26
+Group G,Iran,20,FW,Shahriyar Moghanlou,"December 21, 1994 (aged 31)",21,2,Kalba,26
+Group G,Iran,21,MF,Mohammad Ghorbani,"October 7, 2001 (aged 24)",16,0,Al Wahda,26
+Group G,Iran,22,GK,Hossein Hosseini,"June 30, 1992 (aged 33)",13,0,Sepahan,26
+Group G,Iran,23,DF,Ramin Rezaeian,"March 21, 1990 (aged 36)",74,8,Foolad,26
+Group G,Iran,24,FW,Dennis Eckert,"January 9, 1997 (aged 29)",0,0,Standard Liège,26
+Group G,Iran,25,DF,Danial Eiri,"October 26, 2003 (aged 22)",0,0,Malavan,26
+Group G,Iran,26,MF,Amirmohammad Razzaghinia,"April 11, 2006 (aged 20)",4,0,Esteghlal,26
+Group G,New Zealand,1,GK,Max Crocombe,"August 12, 1993 (aged 32)",24,0,Millwall,27
+Group G,New Zealand,2,DF,Tim Payne,"January 10, 1994 (aged 32)",51,3,Wellington Phoenix,27
+Group G,New Zealand,3,DF,Francis de Vries,"November 28, 1994 (aged 31)",20,1,Auckland FC,27
+Group G,New Zealand,4,DF,Tyler Bindon,"January 27, 2005 (aged 21)",25,3,Sheffield United,27
+Group G,New Zealand,5,DF,Michael Boxall,"August 18, 1988 (aged 37)",63,1,Minnesota United FC,27
+Group G,New Zealand,6,MF,Joe Bell,"April 27, 1999 (aged 27)",32,1,Viking,27
+Group G,New Zealand,7,MF,Matthew Garbett,"April 13, 2002 (aged 24)",37,5,Peterborough United,27
+Group G,New Zealand,8,MF,Marko Stamenić,"February 19, 2002 (aged 24)",39,3,Swansea City,27
+Group G,New Zealand,9,FW,Chris Wood (captain),"December 7, 1991 (aged 34)",90,45,Nottingham Forest,27
+Group G,New Zealand,10,MF,Sarpreet Singh,"February 20, 1999 (aged 27)",28,3,Wellington Phoenix,27
+Group G,New Zealand,11,MF,Elijah Just,"May 1, 2000 (aged 26)",44,9,Motherwell,27
+Group G,New Zealand,12,GK,Alex Paulsen,"July 4, 2002 (aged 23)",8,0,Lechia Gdańsk,27
+Group G,New Zealand,13,DF,Liberato Cacace,"September 27, 2000 (aged 25)",37,1,Wrexham,27
+Group G,New Zealand,14,MF,Alex Rufer,"June 12, 1996 (aged 29)",26,0,Wellington Phoenix,27
+Group G,New Zealand,15,DF,Nando Pijnaker,"February 25, 1999 (aged 27)",25,0,Auckland FC,27
+Group G,New Zealand,16,DF,Finn Surman,"September 23, 2003 (aged 22)",19,2,Portland Timbers,27
+Group G,New Zealand,17,FW,Kosta Barbarouses,"February 19, 1990 (aged 36)",76,10,Western Sydney Wanderers,27
+Group G,New Zealand,18,FW,Ben Waine,"June 11, 2001 (aged 25)",31,9,Port Vale,27
+Group G,New Zealand,19,MF,Ben Old,"August 13, 2002 (aged 23)",24,2,Saint-Étienne,27
+Group G,New Zealand,20,MF,Callum McCowatt,"April 30, 1999 (aged 27)",32,4,Silkeborg,27
+Group G,New Zealand,21,FW,Jesse Randall,"August 19, 2002 (aged 23)",11,2,Auckland FC,27
+Group G,New Zealand,22,GK,Michael Woud,"January 16, 1999 (aged 27)",6,0,Auckland FC,27
+Group G,New Zealand,23,MF,Ryan Thomas,"December 20, 1994 (aged 31)",25,3,PEC Zwolle,27
+Group G,New Zealand,24,DF,Callan Elliot,"July 7, 1999 (aged 26)",11,0,Auckland FC,27
+Group G,New Zealand,25,MF,Lachlan Bayliss,"July 24, 2002 (aged 23)",4,0,Newcastle Jets,27
+Group G,New Zealand,26,DF,Tommy Smith,"March 31, 1990 (aged 36)",56,2,Braintree Town,27
+Group H,Cape Verde,1,GK,Vozinha,"June 3, 1986 (aged 40)",86,0,Chaves,28
+Group H,Cape Verde,2,DF,Stopira,"May 20, 1988 (aged 38)",62,4,Torreense,28
+Group H,Cape Verde,3,DF,Diney,"January 17, 1995 (aged 31)",30,2,Al Bataeh,28
+Group H,Cape Verde,4,DF,Roberto Lopes,"June 17, 1992 (aged 33)",45,0,Shamrock Rovers,28
+Group H,Cape Verde,5,DF,Logan Costa,"April 1, 2001 (aged 25)",28,0,Villarreal,28
+Group H,Cape Verde,6,MF,Kevin Pina,"January 27, 1997 (aged 29)",31,3,Krasnodar,28
+Group H,Cape Verde,7,MF,Jovane Cabral,"June 14, 1998 (aged 27)",27,2,Estrela Amadora,28
+Group H,Cape Verde,8,MF,João Paulo,"May 26, 1998 (aged 28)",42,1,FCSB,28
+Group H,Cape Verde,9,FW,Gilson Benchimol,"December 29, 2001 (aged 24)",22,6,Akron Tolyatti,28
+Group H,Cape Verde,10,MF,Jamiro Monteiro,"November 23, 1993 (aged 32)",55,5,PEC Zwolle,28
+Group H,Cape Verde,11,MF,Garry Rodrigues,"November 27, 1990 (aged 35)",60,10,Apollon Limassol,28
+Group H,Cape Verde,12,GK,Márcio Rosa,"February 23, 1997 (aged 29)",11,0,Montana,28
+Group H,Cape Verde,13,DF,Sidny Lopes Cabral,"September 18, 2002 (aged 23)",9,3,Benfica,28
+Group H,Cape Verde,14,MF,Deroy Duarte,"July 4, 1999 (aged 26)",30,0,Ludogorets Razgrad,28
+Group H,Cape Verde,15,MF,Laros Duarte,"February 28, 1997 (aged 29)",13,1,Puskás Akadémia,28
+Group H,Cape Verde,16,MF,Yannick Semedo,"December 29, 1995 (aged 30)",10,1,Farense,28
+Group H,Cape Verde,17,MF,Willy Semedo,"April 27, 1994 (aged 32)",38,3,Omonia,28
+Group H,Cape Verde,18,MF,Telmo Arcanjo,"June 21, 2001 (aged 24)",16,1,Vitória de Guimarães,28
+Group H,Cape Verde,19,FW,Dailon Livramento,"May 4, 2001 (aged 25)",22,7,Casa Pia,28
+Group H,Cape Verde,20,FW,Ryan Mendes (captain),"January 8, 1990 (aged 36)",98,22,Iğdır,28
+Group H,Cape Verde,21,MF,Nuno da Costa,"February 10, 1991 (aged 35)",9,2,İstanbul Başakşehir,28
+Group H,Cape Verde,22,DF,Steven Moreira,"August 13, 1994 (aged 31)",20,0,Columbus Crew,28
+Group H,Cape Verde,23,GK,CJ dos Santos,"August 24, 2000 (aged 25)",1,0,San Diego FC,28
+Group H,Cape Verde,24,DF,Wagner Pina,"November 3, 2002 (aged 23)",13,0,Trabzonspor,28
+Group H,Cape Verde,25,DF,Kelvin Pires,"June 5, 2000 (aged 26)",5,1,SJK,28
+Group H,Cape Verde,26,MF,Hélio Varela,"May 3, 2002 (aged 24)",20,0,Maccabi Tel Aviv,28
+Group H,Saudi Arabia,1,GK,Nawaf Al-Aqidi,"May 10, 2000 (aged 26)",22,0,Al-Nassr,29
+Group H,Saudi Arabia,2,DF,Ali Majrashi,"October 2, 1999 (aged 26)",21,0,Al-Ahli,29
+Group H,Saudi Arabia,3,DF,Ali Lajami,"April 24, 1996 (aged 30)",21,1,Al-Hilal,29
+Group H,Saudi Arabia,4,DF,Abdulelah Al-Amri,"January 15, 1997 (aged 29)",42,1,Al-Nassr,29
+Group H,Saudi Arabia,5,DF,Hassan Al-Tambakti,"February 9, 1999 (aged 27)",51,1,Al-Hilal,29
+Group H,Saudi Arabia,6,MF,Nasser Al-Dawsari,"December 19, 1998 (aged 27)",43,0,Al-Hilal,29
+Group H,Saudi Arabia,7,MF,Musab Al-Juwayr,"June 20, 2003 (aged 22)",34,6,Al-Qadsiah,29
+Group H,Saudi Arabia,8,FW,Ayman Yahya,"May 14, 2001 (aged 25)",26,0,Al-Nassr,29
+Group H,Saudi Arabia,9,FW,Firas Al-Buraikan,"May 14, 2000 (aged 26)",69,15,Al-Ahli,29
+Group H,Saudi Arabia,10,FW,Salem Al-Dawsari (captain),"August 19, 1991 (aged 34)",109,27,Al-Hilal,29
+Group H,Saudi Arabia,11,FW,Saleh Al-Shehri,"November 1, 1993 (aged 32)",55,18,Al-Ittihad,29
+Group H,Saudi Arabia,12,DF,Saud Abdulhamid,"July 18, 1999 (aged 26)",54,1,Lens,29
+Group H,Saudi Arabia,13,DF,Nawaf Boushal,"September 16, 1999 (aged 26)",24,0,Al-Nassr,29
+Group H,Saudi Arabia,14,DF,Hassan Kadesh,"September 26, 1992 (aged 33)",20,2,Al-Ittihad,29
+Group H,Saudi Arabia,15,MF,Abdullah Al-Khaibari,"August 16, 1996 (aged 29)",39,0,Al-Nassr,29
+Group H,Saudi Arabia,16,MF,Ziyad Al-Johani,"November 11, 2001 (aged 24)",12,0,Al-Ahli,29
+Group H,Saudi Arabia,17,FW,Khalid Al-Ghannam,"November 8, 2000 (aged 25)",6,0,Al-Ettifaq,29
+Group H,Saudi Arabia,18,MF,Alaa Al-Hejji,"December 3, 1995 (aged 30)",2,0,Neom,29
+Group H,Saudi Arabia,19,FW,Abdullah Al-Hamdan,"September 13, 1999 (aged 26)",49,12,Al-Nassr,29
+Group H,Saudi Arabia,20,FW,Sultan Mandash,"October 17, 1994 (aged 31)",6,2,Al-Hilal,29
+Group H,Saudi Arabia,21,GK,Mohammed Al-Owais,"October 10, 1991 (aged 34)",63,0,Al-Ula,29
+Group H,Saudi Arabia,22,GK,Ahmed Al-Kassar,"May 8, 1991 (aged 35)",9,0,Al-Qadsiah,29
+Group H,Saudi Arabia,23,MF,Mohamed Kanno,"September 22, 1994 (aged 31)",76,8,Al-Hilal,29
+Group H,Saudi Arabia,24,DF,Moteb Al-Harbi,"February 20, 2000 (aged 26)",12,0,Al-Hilal,29
+Group H,Saudi Arabia,25,DF,Jehad Thakri,"July 21, 2001 (aged 24)",7,0,Al-Qadsiah,29
+Group H,Saudi Arabia,26,DF,Mohammed Abu Al-Shamat,"August 11, 2002 (aged 23)",6,0,Al-Qadsiah,29
+Group H,Spain,1,GK,David Raya,"September 15, 1995 (aged 30)",13,0,Arsenal,30
+Group H,Spain,2,DF,Marc Pubill,"June 20, 2003 (aged 22)",2,0,Atlético Madrid,30
+Group H,Spain,3,DF,Álex Grimaldo,"September 20, 1995 (aged 30)",14,0,Bayer Leverkusen,30
+Group H,Spain,4,DF,Eric García,"January 9, 2001 (aged 25)",21,0,Barcelona,30
+Group H,Spain,5,DF,Marcos Llorente,"January 30, 1995 (aged 31)",24,0,Atlético Madrid,30
+Group H,Spain,6,MF,Mikel Merino,"June 22, 1996 (aged 29)",43,10,Arsenal,30
+Group H,Spain,7,FW,Ferran Torres,"February 29, 2000 (aged 26)",57,24,Barcelona,30
+Group H,Spain,8,MF,Fabián Ruiz,"April 3, 1996 (aged 30)",42,6,Paris Saint-Germain,30
+Group H,Spain,9,MF,Gavi,"August 5, 2004 (aged 21)",30,5,Barcelona,30
+Group H,Spain,10,FW,Dani Olmo,"May 7, 1998 (aged 28)",50,12,Barcelona,30
+Group H,Spain,11,FW,Yéremy Pino,"October 20, 2002 (aged 23)",23,4,Crystal Palace,30
+Group H,Spain,12,DF,Pedro Porro,"September 13, 1999 (aged 26)",18,0,Tottenham Hotspur,30
+Group H,Spain,13,GK,Joan Garcia,"May 4, 2001 (aged 25)",2,0,Barcelona,30
+Group H,Spain,14,DF,Aymeric Laporte,"May 27, 1994 (aged 32)",46,2,Athletic Bilbao,30
+Group H,Spain,15,MF,Álex Baena,"July 20, 2001 (aged 24)",17,2,Atlético Madrid,30
+Group H,Spain,16,MF,Rodri (captain),"June 22, 1996 (aged 29)",62,4,Manchester City,30
+Group H,Spain,17,FW,Nico Williams,"July 12, 2002 (aged 23)",30,6,Athletic Bilbao,30
+Group H,Spain,18,MF,Martín Zubimendi,"February 2, 1999 (aged 27)",26,3,Arsenal,30
+Group H,Spain,19,FW,Lamine Yamal,"July 13, 2007 (aged 18)",25,6,Barcelona,30
+Group H,Spain,20,MF,Pedri,"November 25, 2002 (aged 23)",41,6,Barcelona,30
+Group H,Spain,21,FW,Mikel Oyarzabal,"April 21, 1997 (aged 29)",53,25,Real Sociedad,30
+Group H,Spain,22,DF,Pau Cubarsí,"January 22, 2007 (aged 19)",12,0,Barcelona,30
+Group H,Spain,23,GK,Unai Simón,"June 11, 1997 (aged 29)",58,0,Athletic Bilbao,30
+Group H,Spain,24,DF,Marc Cucurella,"July 22, 1998 (aged 27)",24,1,Chelsea,30
+Group H,Spain,25,FW,Víctor Muñoz,"July 13, 2003 (aged 22)",2,1,Osasuna,30
+Group H,Spain,26,FW,Borja Iglesias,"January 17, 1993 (aged 33)",8,0,Celta Vigo,30
+Group H,Uruguay,1,GK,Sergio Rochet,"March 23, 1993 (aged 33)",35,0,Internacional,31
+Group H,Uruguay,2,DF,José Giménez (captain),"January 20, 1995 (aged 31)",99,8,Atlético Madrid,31
+Group H,Uruguay,3,DF,Sebastián Cáceres,"August 18, 1999 (aged 26)",24,0,América,31
+Group H,Uruguay,4,DF,Ronald Araújo,"March 7, 1999 (aged 27)",27,1,Barcelona,31
+Group H,Uruguay,5,MF,Manuel Ugarte,"April 11, 2001 (aged 25)",36,1,Manchester United,31
+Group H,Uruguay,6,MF,Rodrigo Bentancur,"June 25, 1997 (aged 28)",74,3,Tottenham Hotspur,31
+Group H,Uruguay,7,MF,Nicolás de la Cruz,"June 1, 1997 (aged 29)",34,5,Flamengo,31
+Group H,Uruguay,8,MF,Federico Valverde,"July 22, 1998 (aged 27)",73,9,Real Madrid,31
+Group H,Uruguay,9,FW,Darwin Núñez,"June 24, 1999 (aged 26)",38,13,Al-Hilal,31
+Group H,Uruguay,10,MF,Giorgian de Arrascaeta,"June 1, 1994 (aged 32)",60,13,Flamengo,31
+Group H,Uruguay,11,FW,Facundo Pellistri,"December 20, 2001 (aged 24)",39,2,Panathinaikos,31
+Group H,Uruguay,12,GK,Santiago Mele,"September 6, 1997 (aged 28)",8,0,Monterrey,31
+Group H,Uruguay,13,DF,Guillermo Varela,"March 24, 1993 (aged 33)",28,0,Flamengo,31
+Group H,Uruguay,14,MF,Agustín Canobbio,"October 1, 1998 (aged 27)",15,1,Fluminense,31
+Group H,Uruguay,15,MF,Emiliano Martínez,"August 17, 1999 (aged 26)",10,0,Palmeiras,31
+Group H,Uruguay,16,DF,Mathías Olivera,"October 31, 1997 (aged 28)",35,2,Napoli,31
+Group H,Uruguay,17,DF,Matías Viña,"November 9, 1997 (aged 28)",43,1,River Plate,31
+Group H,Uruguay,18,FW,Brian Rodríguez,"May 20, 2000 (aged 26)",32,4,América,31
+Group H,Uruguay,19,FW,Rodrigo Aguirre,"October 1, 1994 (aged 31)",10,3,UANL,31
+Group H,Uruguay,20,MF,Maximiliano Araújo,"February 15, 2000 (aged 26)",28,3,Sporting CP,31
+Group H,Uruguay,21,FW,Federico Viñas,"June 30, 1998 (aged 27)",11,2,Oviedo,31
+Group H,Uruguay,22,MF,Joaquín Piquerez,"August 24, 1998 (aged 27)",19,0,Palmeiras,31
+Group H,Uruguay,23,GK,Fernando Muslera,"June 16, 1986 (aged 39)",134,0,Estudiantes,31
+Group H,Uruguay,24,DF,Santiago Bueno,"November 9, 1998 (aged 27)",8,0,Wolverhampton Wanderers,31
+Group H,Uruguay,25,MF,Juan Manuel Sanabria,"March 29, 2000 (aged 26)",5,1,Real Salt Lake,31
+Group H,Uruguay,26,MF,Rodrigo Zalazar,"August 12, 1999 (aged 26)",8,2,Braga,31
+Group I,France,1,GK,Brice Samba,"April 25, 1994 (aged 32)",4,0,Rennes,32
+Group I,France,2,DF,Malo Gusto,"May 19, 2003 (aged 23)",11,0,Chelsea,32
+Group I,France,3,DF,Lucas Digne,"July 20, 1993 (aged 32)",58,0,Aston Villa,32
+Group I,France,4,DF,Dayot Upamecano,"October 27, 1998 (aged 27)",38,2,Bayern Munich,32
+Group I,France,5,DF,Jules Koundé,"November 12, 1998 (aged 27)",48,0,Barcelona,32
+Group I,France,6,MF,Manu Koné,"May 17, 2001 (aged 25)",14,0,Roma,32
+Group I,France,7,FW,Ousmane Dembélé,"May 15, 1997 (aged 29)",59,7,Paris Saint-Germain,32
+Group I,France,8,MF,Aurélien Tchouaméni,"January 27, 2000 (aged 26)",46,3,Real Madrid,32
+Group I,France,9,FW,Marcus Thuram,"August 6, 1997 (aged 28)",34,3,Inter Milan,32
+Group I,France,10,FW,Kylian Mbappé (captain),"December 20, 1998 (aged 27)",98,56,Real Madrid,32
+Group I,France,11,FW,Michael Olise,"December 12, 2001 (aged 24)",17,7,Bayern Munich,32
+Group I,France,12,FW,Bradley Barcola,"September 2, 2002 (aged 23)",20,3,Paris Saint-Germain,32
+Group I,France,13,MF,N'Golo Kanté,"March 29, 1991 (aged 35)",69,2,Fenerbahçe,32
+Group I,France,14,MF,Adrien Rabiot,"April 3, 1995 (aged 31)",59,7,Milan,32
+Group I,France,15,DF,Ibrahima Konaté,"May 25, 1999 (aged 27)",28,0,Liverpool,32
+Group I,France,16,GK,Mike Maignan,"July 3, 1995 (aged 30)",40,0,Milan,32
+Group I,France,17,DF,William Saliba,"March 24, 2001 (aged 25)",32,0,Arsenal,32
+Group I,France,18,MF,Warren Zaïre-Emery,"March 8, 2006 (aged 20)",11,1,Paris Saint-Germain,32
+Group I,France,19,DF,Théo Hernandez,"October 6, 1997 (aged 28)",44,2,Al-Hilal,32
+Group I,France,20,FW,Désiré Doué,"June 3, 2005 (aged 21)",7,2,Paris Saint-Germain,32
+Group I,France,21,DF,Lucas Hernandez,"February 14, 1996 (aged 30)",42,0,Paris Saint-Germain,32
+Group I,France,22,FW,Jean-Philippe Mateta,"June 28, 1997 (aged 28)",4,2,Crystal Palace,32
+Group I,France,23,GK,Robin Risser,"December 2, 2004 (aged 21)",0,0,Lens,32
+Group I,France,24,MF,Rayan Cherki,"August 17, 2003 (aged 22)",7,2,Manchester City,32
+Group I,France,25,MF,Maghnes Akliouche,"February 25, 2002 (aged 24)",9,1,Monaco,32
+Group I,France,26,DF,Maxence Lacroix,"April 6, 2000 (aged 26)",4,0,Crystal Palace,32
+Group I,Iraq,1,GK,Fahad Talib,"October 21, 1994 (aged 31)",21,0,Al-Talaba,33
+Group I,Iraq,2,DF,Rebin Sulaka,"April 12, 1992 (aged 34)",55,1,Port,33
+Group I,Iraq,3,DF,Hussein Ali,"March 1, 2002 (aged 24)",26,1,Pogoń Szczecin,33
+Group I,Iraq,4,DF,Zaid Tahseen,"January 29, 2001 (aged 25)",27,1,Pakhtakor,33
+Group I,Iraq,5,DF,Akam Hashim,"August 16, 1998 (aged 27)",13,1,Al-Zawraa,33
+Group I,Iraq,6,DF,Manaf Younis,"November 16, 1996 (aged 29)",33,1,Al-Shorta,33
+Group I,Iraq,7,MF,Youssef Amyn,"August 21, 2003 (aged 22)",26,2,AEK Larnaca,33
+Group I,Iraq,8,MF,Ibrahim Bayesh,"May 1, 2000 (aged 26)",75,8,Al Dhafra,33
+Group I,Iraq,9,FW,Ali Al-Hamadi,"March 1, 2002 (aged 24)",19,5,Luton Town,33
+Group I,Iraq,10,FW,Mohanad Ali,"June 20, 2000 (aged 25)",71,27,Dibba,33
+Group I,Iraq,11,FW,Ahmed Qasem,"July 12, 2003 (aged 22)",2,0,Nashville SC,33
+Group I,Iraq,12,GK,Jalal Hassan (captain),"May 18, 1991 (aged 35)",101,0,Al-Zawraa,33
+Group I,Iraq,13,FW,Ali Yousif,"January 19, 1996 (aged 30)",6,1,Al-Talaba,33
+Group I,Iraq,14,MF,Zidane Iqbal,"April 27, 2003 (aged 23)",24,2,Utrecht,33
+Group I,Iraq,15,DF,Ahmed Maknzi,"September 24, 2001 (aged 24)",6,0,Al-Karma,33
+Group I,Iraq,16,MF,Amir Al-Ammari,"July 27, 1997 (aged 28)",50,3,Cracovia,33
+Group I,Iraq,17,FW,Ali Jasim,"January 20, 2004 (aged 22)",36,2,Al-Najma,33
+Group I,Iraq,18,FW,Aymen Hussein,"March 22, 1996 (aged 30)",94,33,Al-Karma,33
+Group I,Iraq,19,MF,Kevin Yakob,"October 10, 2000 (aged 25)",8,0,AGF,33
+Group I,Iraq,20,MF,Aimar Sher,"December 20, 2002 (aged 23)",6,0,Sarpsborg 08,33
+Group I,Iraq,21,FW,Marko Farji,"March 16, 2004 (aged 22)",11,0,Venezia,33
+Group I,Iraq,22,GK,Ahmed Basil,"August 19, 1996 (aged 29)",15,0,Al-Shorta,33
+Group I,Iraq,23,DF,Merchas Doski,"December 7, 1999 (aged 26)",31,1,Viktoria Plzeň,33
+Group I,Iraq,24,MF,Zaid Ismail,"January 3, 2002 (aged 24)",6,0,Al-Talaba,33
+Group I,Iraq,25,DF,Mustafa Saadoon,"May 25, 2001 (aged 25)",16,0,Al-Shorta,33
+Group I,Iraq,26,DF,Frans Putros,"July 14, 1993 (aged 32)",27,0,Persib,33
+Group I,Norway,1,GK,Ørjan Nyland,"September 10, 1990 (aged 35)",71,0,Sevilla,34
+Group I,Norway,2,MF,Morten Thorsby,"May 5, 1996 (aged 30)",31,0,Cremonese,34
+Group I,Norway,3,DF,Kristoffer Ajer,"April 17, 1998 (aged 28)",52,2,Brentford,34
+Group I,Norway,4,DF,Leo Østigård,"November 28, 1999 (aged 26)",38,1,Genoa,34
+Group I,Norway,5,DF,David Møller Wolfe,"April 23, 2002 (aged 24)",22,1,Wolverhampton Wanderers,34
+Group I,Norway,6,MF,Patrick Berg,"November 24, 1997 (aged 28)",43,0,Bodø/Glimt,34
+Group I,Norway,7,FW,Alexander Sørloth,"December 5, 1995 (aged 30)",72,26,Atlético Madrid,34
+Group I,Norway,8,MF,Sander Berge,"February 14, 1998 (aged 28)",66,1,Fulham,34
+Group I,Norway,9,FW,Erling Haaland,"July 21, 2000 (aged 25)",50,55,Manchester City,34
+Group I,Norway,10,MF,Martin Ødegaard (captain),"December 17, 1998 (aged 27)",68,5,Arsenal,34
+Group I,Norway,11,FW,Jørgen Strand Larsen,"February 6, 2000 (aged 26)",28,6,Crystal Palace,34
+Group I,Norway,12,GK,Sander Tangvik,"November 29, 2002 (aged 23)",0,0,Hamburger SV,34
+Group I,Norway,13,GK,Egil Selvik,"July 30, 1997 (aged 28)",7,0,Watford,34
+Group I,Norway,14,MF,Fredrik Aursnes,"December 10, 1995 (aged 30)",22,1,Benfica,34
+Group I,Norway,15,DF,Fredrik André Bjørkan,"August 21, 1998 (aged 27)",21,1,Bodø/Glimt,34
+Group I,Norway,16,DF,Marcus Holmgren Pedersen,"July 16, 2000 (aged 25)",32,0,Torino,34
+Group I,Norway,17,DF,Torbjørn Heggem,"January 12, 1999 (aged 27)",15,0,Bologna,34
+Group I,Norway,18,MF,Kristian Thorstvedt,"March 13, 1999 (aged 27)",37,4,Sassuolo,34
+Group I,Norway,19,MF,Thelo Aasgaard,"May 2, 2002 (aged 24)",8,5,Rangers,34
+Group I,Norway,20,FW,Antonio Nusa,"April 17, 2005 (aged 21)",24,8,RB Leipzig,34
+Group I,Norway,21,MF,Andreas Schjelderup,"June 1, 2004 (aged 22)",12,1,Benfica,34
+Group I,Norway,22,MF,Oscar Bobb,"July 12, 2003 (aged 22)",20,2,Fulham,34
+Group I,Norway,23,MF,Jens Petter Hauge,"October 12, 1999 (aged 26)",15,1,Bodø/Glimt,34
+Group I,Norway,24,DF,Sondre Langås,"February 2, 2001 (aged 25)",3,0,Derby County,34
+Group I,Norway,25,DF,Henrik Falchener,"May 8, 2003 (aged 23)",1,0,Viking,34
+Group I,Norway,26,FW,Julian Ryerson,"November 17, 1997 (aged 28)",43,1,Borussia Dortmund,34
+Group I,Senegal,1,GK,Yehvann Diouf,"November 16, 1999 (aged 26)",2,0,Nice,35
+Group I,Senegal,2,DF,Mamadou Sarr,"August 29, 2005 (aged 20)",7,0,Chelsea,35
+Group I,Senegal,3,DF,Kalidou Koulibaly (captain),"June 20, 1991 (aged 34)",102,2,Al-Hilal,35
+Group I,Senegal,4,DF,Abdoulaye Seck,"June 4, 1992 (aged 34)",22,4,Maccabi Haifa,35
+Group I,Senegal,5,MF,Idrissa Gueye,"September 26, 1989 (aged 36)",130,7,Everton,35
+Group I,Senegal,6,MF,Pathé Ciss,"March 16, 1994 (aged 32)",29,0,Rayo Vallecano,35
+Group I,Senegal,7,FW,Assane Diao,"September 7, 2005 (aged 20)",5,0,Como,35
+Group I,Senegal,8,MF,Lamine Camara,"January 1, 2004 (aged 22)",32,7,Monaco,35
+Group I,Senegal,9,FW,Bamba Dieng,"March 23, 2000 (aged 26)",22,2,Lorient,35
+Group I,Senegal,10,FW,Sadio Mané,"April 10, 1992 (aged 34)",127,55,Al-Nassr,35
+Group I,Senegal,11,FW,Nicolas Jackson,"June 20, 2001 (aged 24)",32,8,Bayern Munich,35
+Group I,Senegal,12,FW,Cherif Ndiaye,"January 23, 1996 (aged 30)",18,4,Samsunspor,35
+Group I,Senegal,13,FW,Iliman Ndiaye,"March 6, 2000 (aged 26)",39,4,Everton,35
+Group I,Senegal,14,DF,Ismail Jakobs,"August 17, 1999 (aged 26)",29,0,Galatasaray,35
+Group I,Senegal,15,DF,Krépin Diatta,"February 25, 1999 (aged 27)",60,2,Monaco,35
+Group I,Senegal,16,GK,Édouard Mendy,"March 1, 1992 (aged 34)",56,0,Al-Ahli,35
+Group I,Senegal,17,MF,Pape Matar Sarr,"September 14, 2002 (aged 23)",39,4,Tottenham Hotspur,35
+Group I,Senegal,18,FW,Ismaïla Sarr,"February 25, 1998 (aged 28)",82,19,Crystal Palace,35
+Group I,Senegal,19,DF,Moussa Niakhaté,"March 8, 1996 (aged 30)",30,0,Lyon,35
+Group I,Senegal,20,FW,Ibrahim Mbaye,"January 24, 2008 (aged 18)",10,3,Paris Saint-Germain,35
+Group I,Senegal,21,MF,Habib Diarra,"January 3, 2004 (aged 22)",20,4,Sunderland,35
+Group I,Senegal,22,MF,Bara Sapoko Ndiaye,"December 31, 2007 (aged 18)",1,0,Bayern Munich,35
+Group I,Senegal,23,GK,Mory Diaw,"June 22, 1993 (aged 32)",5,0,Le Havre,35
+Group I,Senegal,24,DF,Antoine Mendy,"May 27, 2004 (aged 22)",6,0,Nice,35

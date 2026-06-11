@@ -16,8 +16,8 @@ This analysis ranks players by goals within each position and creates a clean vi
 ## Table and chart images (to add)
 Add your exported images in a folder called `images` and keep these paths.
 
-![Goals Summary Table](images/goals-summary-by-position.png)
-![Top 5 Goals by Position Chart](images/top-5-goals-by-position.png)
+![Goals Summary Table](images/10-top-5-goals-by-position-a.png)
+![Top 5 Goals by Position Chart](images/10-top-5-goals-by-position-b.png)
 
 ## Script
 ```python

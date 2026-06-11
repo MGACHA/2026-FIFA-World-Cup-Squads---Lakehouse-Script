@@ -16,7 +16,7 @@ This analysis tests whether older players tend to have more international caps.
 ## Chart image (to add)
 Add your exported chart image in a folder called `images` and keep this path.
 
-![Age vs Caps by Position](images/age-vs-caps-by-position.png)
+![Age vs Caps by Position](images/09-age-vs-caps-by-position-a.png)
 
 ## Script
 ```python
