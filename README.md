@@ -1,4 +1,5 @@
-# 2026 FIFA World Cup Squads Analysis (Fabric + PySpark)
+# IN PROGRESS
+# 2026 FIFA World Cup Squads Analysis (Fabric + PySpark) 
 
 ## Overview
 This project builds a reusable data pipeline and analysis story for the 2026 FIFA World Cup squads.
