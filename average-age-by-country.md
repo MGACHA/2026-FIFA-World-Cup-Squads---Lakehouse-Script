@@ -9,7 +9,7 @@ Bar chart of average age by country.
 ## Findings
 Average squad ages are mostly concentrated in the upper 20s, with a smaller set of countries closer to 30. The chart is useful for spotting younger vs older squads at a glance.
 
-## Image placeholder
+## Image 
 ![Average Age by Country](images/03-average-age-by-country-a.png)
 
 ## Script
