@@ -13,8 +13,7 @@ This analysis tests whether older players tend to have more international caps.
 - The correlation value (`Pearson r`) quantifies the relationship strength.
 - The point spread shows that age is important, but not the only factor behind caps.
 
-## Chart image (to add)
-Add your exported chart image in a folder called `images` and keep this path.
+## Chart image
 
 ![Age vs Caps by Position](images/09-age-vs-caps-by-position-a.png)
 
