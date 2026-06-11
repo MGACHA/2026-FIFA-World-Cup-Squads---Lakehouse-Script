@@ -13,8 +13,7 @@ This analysis ranks players by goals within each position and creates a clean vi
 - The script prints explicit messages when a position has zero total goals.
 - The chart is easier to read with separate panels per position.
 
-## Table and chart images (to add)
-Add your exported images in a folder called `images` and keep these paths.
+## Table and chart images
 
 ![Goals Summary Table](images/10-top-5-goals-by-position-a.png)
 ![Top 5 Goals by Position Chart](images/10-top-5-goals-by-position-b.png)
