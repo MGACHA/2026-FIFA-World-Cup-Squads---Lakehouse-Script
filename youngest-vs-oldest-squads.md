@@ -12,7 +12,7 @@ Single comparison chart with segment colors and value labels (age and group).
 ## Findings
 The split view highlights the gap between extremes more clearly than one long ranking. In this run, the spread between youngest and oldest averages is roughly three years.
 
-## Image placeholder
+## Image 
 ![Youngest vs Oldest Squads](images/05-youngest-vs-oldest-squads-a.png)
 
 ## Script
