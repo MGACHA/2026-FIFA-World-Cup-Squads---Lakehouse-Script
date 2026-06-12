@@ -18,8 +18,9 @@ This is the first script that creates the Lakehouse-ready dataset and saves it a
 This script is the ingestion foundation used by all later analysis scripts in the notebook.
 
 ## Image placeholders
-![Lakehouse Table Created](images/01-lakehouse-setup-a.png)
-![Data Preview](images/01-lakehouse-setup-b.png)
+![Lakehouse SetUp - Attach notebook to Lakehouse](images/01-lakehouse-setup-a.png)
+
+![Lakehouse Table Created - Data Preview](images/01-lakehouse-setup-b.png)
 
 ## Script
 ```python
