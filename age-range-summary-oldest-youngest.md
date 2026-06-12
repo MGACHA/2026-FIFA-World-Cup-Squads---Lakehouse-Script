@@ -15,7 +15,8 @@ This section quickly highlights age extremes and gives an easy quality check for
 
 ## Image placeholders
 ![Oldest and Youngest Outfield](images/02-age-range-summary-a.png)
-![Oldest and Youngest GK Captains](images/02-age-range-summary-b.png)
+![Oldest and Youngest GK](images/02-age-range-summary-b.png)
+![Oldest and Youngest Captains](images/02-age-range-summary-c.png)
 
 ## Script
 ```python
