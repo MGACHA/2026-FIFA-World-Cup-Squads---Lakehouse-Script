@@ -15,7 +15,10 @@ This analysis ranks players by goals within each position and creates a clean vi
 
 ## Table and chart images
 
-![Goals Summary Table](images/10-top-5-goals-by-position-a.png)
+![Goals Summary Table](images/10-top-5-goals-by-position-a1.png)
+
+![Goals Summary Table](images/10-top-5-goals-by-position-a2.png)
+
 ![Top 5 Goals by Position Chart](images/10-top-5-goals-by-position-b.png)
 
 ## Script
