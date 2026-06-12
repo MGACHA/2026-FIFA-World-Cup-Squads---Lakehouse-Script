@@ -13,9 +13,11 @@ Printed Spark tables (one oldest row and one youngest row per category).
 ## Findings
 This section quickly highlights age extremes and gives an easy quality check for age parsing across the dataset.
 
-## Image placeholders
+## Image
 ![Oldest and Youngest Outfield](images/02-age-range-summary-a.png)
+
 ![Oldest and Youngest GK](images/02-age-range-summary-b.png)
+
 ![Oldest and Youngest Captains](images/02-age-range-summary-c.png)
 
 ## Script
