@@ -19,8 +19,8 @@ Primary notebook:
 2. Cleaning and normalization for analytics (safe column names, structured fields)
 3. Storage into Lakehouse Delta table
 4. Analysis scripts for age, caps, and goals trends
-5. GitHub-ready markdown reports with image references
-6. CSV export for source publishing
+5. Markdown reports with image references
+6. CSV export for source
 
 ---
 
@@ -80,16 +80,13 @@ Use the notebook or the individual markdown script files:
 - `worldcup_squads2026.ipynb`
 - or scripts in each `*.md` analysis file
 
-### 3) Export source CSV for GitHub
+### 3) Export source CSV
 Run:
 - `export_worldcup_squads_to_csv.py`
 
 Result:
 - `Data/worldcup_squads_all.csv` (or Lakehouse `Files/` path, depending on runtime)
 
-### 4) Publish analysis docs
-- Use `worldcup-analyses-index.md` as the entry point
-- Keep charts/tables in `images/`
 
 ---
 
@@ -113,7 +110,7 @@ Result:
 
 Notes:
 - This project is intended for educational/analysis use.
-- Source content may change over time; reruns can produce updated outputs.
+- Source content may change over time; reruns can produce updated outputs (eg. Age, Cups, Goals).
 
 ---
 
