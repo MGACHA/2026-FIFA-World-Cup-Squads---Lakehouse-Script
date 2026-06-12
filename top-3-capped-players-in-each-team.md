@@ -16,7 +16,7 @@ Optional second cell creates a compact pivot table (Top 1, Top 2, Top 3) per cou
 ## Findings
 This section reveals how experience is distributed inside each squad and helps identify teams with a strong veteran core.
 
-## Image placeholders
+## Image
 ![Top 3 Capped by Team Table](images/08-top-3-capped-by-team-a.png)
 ![Top 3 Capped by Team Pivot](images/08-top-3-capped-by-team-b.png)
 
@@ -84,3 +84,7 @@ pivot = (
 print("\nTop 3 Most Capped Players in Each Team")
 print(pivot.to_string(index=False))
 ```
+
+## Image full table 
+![Top 3 Capped by Team Table](images/08-top-3-capped-by-team-b-unpivottable1.png)
+![Top 3 Capped by Team Table](images/08-top-3-capped-by-team-b-unpivottable2.png)
