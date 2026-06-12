@@ -20,6 +20,10 @@ This section reveals how experience is distributed inside each squad and helps i
 ![Top 3 Capped by Team Table](images/08-top-3-capped-by-team-a.png)
 ![Top 3 Capped by Team Pivot](images/08-top-3-capped-by-team-b.png)
 
+## Exported Data
+![Top 3 Capped by Team Table](Data/top3_most_capped_players_by_team.csv)
+![Top 3 Capped by Team Pivot](Data/top3_most_capped_players_by_team_pivot.csv)
+
 ## Script
 ```python
 from pyspark.sql import functions as F
