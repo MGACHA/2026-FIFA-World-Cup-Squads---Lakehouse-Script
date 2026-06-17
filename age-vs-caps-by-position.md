@@ -3,6 +3,8 @@
 ## What this analysis shows
 This analysis tests whether older players tend to have more international caps.
 
+Cap represents an appearance for a player's national team, making it a useful measure of international experience.
+
 - X-axis: age
 - Y-axis: international caps
 - Color: player position (`GK`, `DF`, `MF`, `FW`)
@@ -12,6 +14,8 @@ This analysis tests whether older players tend to have more international caps.
 - The trend line slopes upward, which indicates a positive relationship between age and caps.
 - The correlation value (`Pearson r`) quantifies the relationship strength.
 - The point spread shows that age is important, but not the only factor behind caps.
+
+Pearson correlation (r) helps measure whether older players tend to have more international caps. The closer the value is to +1, the stronger the relationship between age and international experience.
 
 ## Chart image
 
